@@ -524,6 +524,15 @@
       "scrollTop": 700,
       "startId": "20210111224435-y1fesd1"
     },
+    "20210615211733-v6rzowm": {
+      "endId": "20220807180308-7hyw96s",
+      "focusEnd": 0,
+      "focusId": "20220501134357-003dftr",
+      "focusStart": 0,
+      "rootId": "20210615211733-v6rzowm",
+      "scrollTop": 2100,
+      "startId": "20220501134357-003dftr"
+    },
     "20260527140653-kwv108x": {
       "endId": "20260527155851-dq78lcc",
       "focusEnd": 0,
@@ -561,18 +570,18 @@
       "startId": "20260527140741-gi6qgzq"
     },
     "20260527140807-0alu7ke": {
-      "endId": "20260527143838-xsfsz1v",
-      "focusEnd": 0,
-      "focusId": "20260527140807-o64jbqk",
-      "focusStart": 0,
+      "endId": "20260527163304-gf7zg4w",
+      "focusEnd": 42,
+      "focusId": "20260527163304-q35wdhu",
+      "focusStart": 42,
       "rootId": "20260527140807-0alu7ke",
       "scrollTop": 0,
-      "startId": "20260527140807-o64jbqk"
+      "startId": "20260527163304-adlub7n"
     },
     "20260527140819-qpq6mwr": {
-      "endId": "20260527140819-1x2lu8h",
+      "endId": "20260527160853-yr434tb",
       "focusEnd": 0,
-      "focusId": "20260527140819-1x2lu8h",
+      "focusId": "20260527160853-yr434tb",
       "focusStart": 0,
       "rootId": "20260527140819-qpq6mwr",
       "scrollTop": 0,
@@ -601,6 +610,15 @@
       "rootId": "20260527140915-usgbv86",
       "scrollTop": 0,
       "startId": "20260527140915-3upi2rd"
+    },
+    "20260527164448-bsrwdso": {
+      "endId": "20260527164954-sqoceve",
+      "focusEnd": 79,
+      "focusId": "20260527164450-hslvm55",
+      "focusStart": 79,
+      "rootId": "20260527164448-bsrwdso",
+      "scrollTop": 1500,
+      "startId": "20260527164548-fc200sl"
     }
   },
   "local-filespaths": [
@@ -617,10 +635,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": false,
+        "show": true,
         "size": {
-          "height": 0,
-          "width": 400
+          "height": null,
+          "width": 454
         },
         "title": "Copilot"
       }
