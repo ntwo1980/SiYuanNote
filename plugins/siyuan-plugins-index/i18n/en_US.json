@@ -1,0 +1,198 @@
+{
+  "insertIndex": "Insert Index",
+  "insertoutline": "Insert Outline",
+  "settings": "Settings",
+  "addTopBarIcon": "Insert Index",
+  "indexSettings": "Index",
+  "outlineSettings": "Outline",
+  "builderSettings": "Builder (Beta)",
+  "dataSettings": "Database (Beta)",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "update": "Update",
+  "keep": "Keep",
+  "recent": "Recent",
+  "search": "Search",
+  "loading": "Loading",
+  "msg_success": "Success",
+  "msg_no_index": "No sub-documents found",
+  "msg_no_outline": "No headings found in the current document",
+  "errorMsg_empty": "Document ID is empty",
+  "errorMsg_miss": "Operation failed",
+  "confirmDialog": {
+    "title": "Update Configuration",
+    "content": "Update current block configuration with settings in plugin-wide?"
+  },
+  "settingsTab": {
+    "name": "Plugin Settings",
+    "items": {
+      "notebookDialog": {
+        "title": "Notebook Index",
+        "content": "Select a notebook to generate index",
+        "dialogtitle": "Generate Notebook Index",
+        "insert": "Insert"
+      },
+      "listType": {
+        "title": "List Type",
+        "content": "List style for the index",
+        "options": {
+          "unordered": "Unordered",
+          "ordered": "Ordered"
+        }
+      },
+      "linkType": {
+        "title": "Index Type",
+        "content": "Style for the index",
+        "options": [
+          { "value": "link", "label": "Link" },
+          { "value": "reference", "label": "Reference" },
+          { "value": "dynamic-ref", "label": "Dynamic Reference" },
+          { "value": "tree", "label": "Sub-doc Tree (Beta, Not recommended)" }
+        ]
+      },
+      "icon": {
+        "title": "Show Icon",
+        "content": "Show document icons in index"
+      },
+      "depth": {
+        "title": "Depth",
+        "content": "Max depth for index (0 for infinite)",
+        "min": 0,
+        "max": 10,
+        "step": 1
+      },
+      "fold": {
+        "title": "Fold Level",
+        "content": "Default fold level depth",
+        "min": 0,
+        "max": 10,
+        "step": 1
+      },
+      "col": {
+        "title": "Columns",
+        "content": "Number of columns for index display",
+        "min": 1,
+        "max": 5,
+        "step": 1
+      },
+
+      "autoUpdate": {
+        "title": "Auto Update",
+        "content": "Auto update index on doc load"
+      },
+      "listTypeOutline": {
+        "title": "Outline List Type",
+        "content": "List style for the outline",
+        "options": {
+          "unordered": "Unordered",
+          "ordered": "Ordered"
+        }
+      },
+      "outlineType": {
+        "title": "Outline Type",
+        "content": "Generation method for outline",
+        "options": [
+          { "value": "link", "label": "Link" },
+          { "value": "reference", "label": "Reference" },
+          { "value": "dynamic-ref", "label": "Dynamic Reference" },
+          { "value": "tree", "label": "Heading Tree (Beta, Not recommended)" }
+        ]
+      },
+      "iconOutline": {
+        "title": "Rich Text Sync",
+        "content": "Sync rich text content for headings"
+      },
+      "outlineAutoUpdate": {
+        "title": "Outline Auto Update",
+        "content": "Auto update outline on doc load"
+      },
+      "builderAutoUpdate": {
+        "title": "Builder Auto Update",
+        "content": "Auto sync content for Document Builder"
+      },
+      "dbAddTemplateCols": {
+        "title": "Add Template Columns",
+        "content": "Automatically add title-img and template columns"
+      },
+
+      "builderDesc": "📄 Open sub-page · ➖ Link to heading"
+    }
+  },
+  "builderMenu": {
+    "buildDoc": "👈 Build Subdocs",
+    "buildHeading": "👇 Build Heading Rows",
+    "syncSuccess": "✅ Sync Complete",
+    "syncPartial": "⚠️ Some items not updated due to complex format (x{n}), only icons updated",
+    "syncError": "Sync Failed: {error}",
+    "transformFail": "Transformation Failed"
+  },
+  "dbConfig": {
+    "dialogTitle": "Database Advanced Settings",
+    "tabType": "Type Settings",
+    "tabInheritance": "Inheritance Settings",
+    "modeSingle": "Single Class",
+    "modeMulti": "Multi Class",
+    "singleClassLabel": "Current DB Class Name:",
+    "switchModePrompt": "Are you sure you want to switch? Only the currently selected mode will be effective.",
+    "typeFieldLabel": "Type Determined By:",
+    "selectField": "-- Select Field --",
+    "systemProps": "System Properties",
+    "columns": "Columns",
+    "valueMappings": "Naming Class:",
+    "typeNamePlaceholder": "Type Name",
+    "mapInfo": "After naming a class, simply tag content with the same name to add it to the database.",
+    "modeNone": "None",
+    "modeWeak": "Weak (Fill Empty)",
+    "modeStrong": "Strong (Overwrite)",
+    "cancel": "Cancel",
+    "save": "Save",
+    "errInternalConflict": "❌ Internal conflict: Multiple types defined for",
+    "checkingConflict": "Checking for Supertag conflicts...",
+    "errGlobalConflictType": "❌ Global conflict: Supertag name",
+    "errGlobalConflictUsed": "is already used in another database as a Supertag",
+    "savingRules": "⚙️ Applying inheritance rules...",
+    "saveSyncSuccess": "✅ Settings saved & synced (Updated",
+    "saveSyncSuccessCells": "cells)",
+    "saveNoChange": "✅ Settings saved (Data is up-to-date)",
+    "saveError": "⚠️ Settings saved, but error occurred during sync",
+    "setWeakInheritance": "Set current column to weak inheritance",
+    "applyingWeakInheritance": "⏳ Applying weak inheritance...",
+    "setWeakInheritanceError": "❌ Failed to set weak inheritance:",
+    "setSupertag": "Mark as Supertag",
+    "cancelSupertag": "Cancel Supertag",
+    "reset": "Reset Supertag Config",
+    "resetPrompt": "Sure to reset all Supertag mappings for this database? This will clear rules from Type-DB (existing data remains).",
+    "resetSuccess": "✅ Configuration Reset"
+  },
+  "dataMenu": {
+    "createDatabase": "📊 Create Database",
+    "dbFocus": "🔍 Database Focus",
+    "level": "Level",
+    "siblings": "Siblings",
+    "descendants": "Descendants",
+    "filtered": "All Filtered Items",
+    "selectIcon": "Select Icon",
+    "batchSetIcon": "Batch Set Icon",
+    "builtinImages": "Built-in Images",
+    "assetImage": "Assets",
+    "randomImage": "Random",
+    "selectTitleImg": "Select Title Image",
+    "batchSetTitleImg": "Batch Set Title Image",
+    "selectTemplate": "Select Template",
+    "batchSetTemplate": "Batch Set Template",
+    "syncTo": "Sync to",
+    "batchSyncTo": "Batch sync to descendants",
+    "syncToFiltered": "Sync to filtered items",
+    "warning": "⚠️ The Database feature is currently in beta. Please be aware that structural changes within lists, such as **Outdenting** or **dragging blocks across different levels**, may cause database links to break or data loss. Please use with caution and recommend regular backups."
+  },
+  "supertagManager": {
+    "title": "Supertag Management",
+    "configRule": "Configure Rule",
+    "tagName": "Tag Name",
+    "targetDB": "Target Database",
+    "actions": "Actions",
+    "configTemplate": "Configure Template",
+    "noTags": "No Supertags configured",
+    "noTagsHint": "Mark mappings with a star in Database Settings to create Supertags"
+  }
+}

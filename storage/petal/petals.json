@@ -9,5 +9,16 @@
 		"js": "",
 		"css": "",
 		"i18n": null
+	},
+	{
+		"name": "siyuan-plugins-index",
+		"displayName": "目录插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": true,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
 	}
 ]

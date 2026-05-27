@@ -1,6 +1,9 @@
 {
 	"packages": {
 		"plugins": {
+			"siyuan-plugins-index": {
+				"installTime": 1779862618868
+			},
 			"sy-tomato-plugin": {
 				"installTime": 1779858116848
 			}

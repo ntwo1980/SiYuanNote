@@ -3,8 +3,8 @@
     "icon": "0",
     "plugin": "2",
     "template": "0",
-    "theme": "0",
-    "widget": "0"
+    "theme": "2",
+    "widget": "2"
   },
   "local-closed-tabs": [
     {
@@ -85,6 +85,162 @@
       "instance": "Tab",
       "pin": false,
       "title": "未命名"
+    },
+    {
+      "active": true,
+      "activeTime": "1779862016341",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527132124-1h760d3",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527132124-1h760d3"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "高考语文怎么考高分"
+    },
+    {
+      "activeTime": "1779862045720",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140725-ilpe7hs",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140725-ilpe7hs"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "语言文字运用"
+    },
+    {
+      "active": true,
+      "activeTime": "1779862776481",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140653-kwv108x",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140653-kwv108x"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "现代文阅读"
+    },
+    {
+      "active": true,
+      "activeTime": "1779862781104",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140807-0alu7ke",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140807-0alu7ke"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "信息类文本"
+    },
+    {
+      "activeTime": "1779862102891",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140819-qpq6mwr",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140819-qpq6mwr"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "文学类文本"
+    },
+    {
+      "active": true,
+      "activeTime": "1779862782869",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140712-wuea657",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140712-wuea657"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "古代诗文阅读"
+    },
+    {
+      "activeTime": "1779862125893",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140845-wg3dg6p",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140845-wg3dg6p"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "文言文"
+    },
+    {
+      "activeTime": "1779862139790",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140858-ofzetw1",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140858-ofzetw1"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "古代诗歌"
+    },
+    {
+      "active": true,
+      "activeTime": "1779862783502",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140915-usgbv86",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140915-usgbv86"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "名篇名句默写"
+    },
+    {
+      "active": true,
+      "activeTime": "1779862786903",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140741-hrog3o1",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140741-hrog3o1"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "写作"
     }
   ],
   "local-dialogposition": {
@@ -105,21 +261,90 @@
       "scrollTop": 0,
       "startId": "20251209210725-2e63bop"
     },
-    "20260527132124-1h760d3": {
-      "endId": "20260527132157-almpx3l",
-      "focusEnd": 11,
-      "focusId": "20260527132124-022ynqn",
-      "focusStart": 11,
-      "rootId": "20260527132124-1h760d3",
+    "20260527140653-kwv108x": {
+      "endId": "20260527140754-98aj01l",
+      "focusEnd": 0,
+      "focusId": "20260527140653-g13apj6",
+      "focusStart": 0,
+      "rootId": "20260527140653-kwv108x",
       "scrollTop": 0,
-      "startId": "20260527132124-022ynqn"
+      "startId": "20260527140653-g13apj6"
+    },
+    "20260527140712-wuea657": {
+      "endId": "20260527140712-lc40nul",
+      "focusEnd": 0,
+      "focusId": "20260527140712-lc40nul",
+      "focusStart": 0,
+      "rootId": "20260527140712-wuea657",
+      "scrollTop": 0,
+      "startId": "20260527140712-lc40nul"
+    },
+    "20260527140725-ilpe7hs": {
+      "endId": "20260527140725-sq7t3hu",
+      "focusEnd": 0,
+      "focusId": "20260527140725-sq7t3hu",
+      "focusStart": 0,
+      "rootId": "20260527140725-ilpe7hs",
+      "scrollTop": 0,
+      "startId": "20260527140725-sq7t3hu"
+    },
+    "20260527140741-hrog3o1": {
+      "endId": "20260527140741-gi6qgzq",
+      "focusEnd": 0,
+      "focusId": "20260527140741-gi6qgzq",
+      "focusStart": 0,
+      "rootId": "20260527140741-hrog3o1",
+      "scrollTop": 0,
+      "startId": "20260527140741-gi6qgzq"
+    },
+    "20260527140807-0alu7ke": {
+      "endId": "20260527140807-o64jbqk",
+      "focusEnd": 0,
+      "focusId": "20260527140807-o64jbqk",
+      "focusStart": 0,
+      "rootId": "20260527140807-0alu7ke",
+      "scrollTop": 0,
+      "startId": "20260527140807-o64jbqk"
+    },
+    "20260527140819-qpq6mwr": {
+      "endId": "20260527140819-1x2lu8h",
+      "focusEnd": 0,
+      "focusId": "20260527140819-1x2lu8h",
+      "focusStart": 0,
+      "rootId": "20260527140819-qpq6mwr",
+      "scrollTop": 0,
+      "startId": "20260527140819-1x2lu8h"
+    },
+    "20260527140845-wg3dg6p": {
+      "endId": "20260527140845-z19ingh",
+      "rootId": "20260527140845-wg3dg6p",
+      "scrollTop": 0,
+      "startId": "20260527140845-z19ingh"
+    },
+    "20260527140858-ofzetw1": {
+      "endId": "20260527140858-cjq3xom",
+      "focusEnd": 0,
+      "focusId": "20260527140858-cjq3xom",
+      "focusStart": 0,
+      "rootId": "20260527140858-ofzetw1",
+      "scrollTop": 0,
+      "startId": "20260527140858-cjq3xom"
+    },
+    "20260527140915-usgbv86": {
+      "endId": "20260527140915-3upi2rd",
+      "focusEnd": 0,
+      "focusId": "20260527140915-3upi2rd",
+      "focusStart": 0,
+      "rootId": "20260527140915-usgbv86",
+      "scrollTop": 0,
+      "startId": "20260527140915-3upi2rd"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527132124-1h760d3.sy"
+        "/20260527140712-wuea657/20260527140845-wg3dg6p.sy"
       ]
     }
   ]
