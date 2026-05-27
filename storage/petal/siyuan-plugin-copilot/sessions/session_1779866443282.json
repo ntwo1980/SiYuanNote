@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful AI assistant."
+    },
+    {
+      "role": "user",
+      "content": "总结",
+      "contextDocuments": [
+        {
+          "id": "20260527140845-wg3dg6p",
+          "title": "文言文",
+          "content": "# 文言文\n\n‍\n",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "\n\n您提供的上下文仅包含标题 `# 文言文` 及一个 BlockID，**没有实际正文内容**，因此目前无法进行针对性总结。\n\n💡 **下一步建议**：\n- 若您有具体的文言文段落、知识点或笔记，请补充粘贴，我将为您提取核心内容、翻译或梳理结构。\n- 若您需要“文言文”的基础概述（如：定义、文体分类、常见虚词、特殊句式、学习建议等），回复告知，我可立即为您整理一份结构化摘要。"
+    }
+  ]
+}
