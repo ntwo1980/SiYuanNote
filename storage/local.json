@@ -635,10 +635,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": true,
+        "show": false,
         "size": {
-          "height": null,
-          "width": 454
+          "height": 0,
+          "width": 400
         },
         "title": "Copilot"
       }
