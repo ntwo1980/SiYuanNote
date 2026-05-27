@@ -325,6 +325,163 @@
       "instance": "Tab",
       "pin": false,
       "title": "信息类文本"
+    },
+    {
+      "activeTime": "1779868010182",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140725-ilpe7hs",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140725-ilpe7hs"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "语言文字运用"
+    },
+    {
+      "active": true,
+      "activeTime": "1779868413940",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20201117101902-2ewjjum",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20210808180117-czj9bvb",
+        "rootId": "20201117101902-2ewjjum"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "嵌入内容块"
+    },
+    {
+      "active": true,
+      "activeTime": "1779868702719",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20200813131152-0wk5akh",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20210808180117-czj9bvb",
+        "rootId": "20200813131152-0wk5akh"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "在内容块中遨游"
+    },
+    {
+      "activeTime": "1779868015402",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140845-wg3dg6p",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140845-wg3dg6p"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "文言文"
+    },
+    {
+      "activeTime": "1779868015983",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140858-ofzetw1",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140858-ofzetw1"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "古代诗歌"
+    },
+    {
+      "active": true,
+      "activeTime": "1779868721567",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140653-kwv108x",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140653-kwv108x"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "现代文阅读"
+    },
+    {
+      "active": true,
+      "activeTime": "1779868805397",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20200812220555-lj3enxa",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20210808180117-czj9bvb",
+        "rootId": "20200812220555-lj3enxa"
+      },
+      "docIcon": "1f389",
+      "instance": "Tab",
+      "pin": false,
+      "title": "请从这里开始"
+    },
+    {
+      "active": true,
+      "activeTime": "1779868806566",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140807-0alu7ke",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140807-0alu7ke"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "信息类文本"
+    },
+    {
+      "active": true,
+      "activeTime": "1779868808220",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140819-qpq6mwr",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140819-qpq6mwr"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "文学类文本"
+    },
+    {
+      "active": true,
+      "activeTime": "1779868809380",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140741-hrog3o1",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140741-hrog3o1"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "写作"
     }
   ],
   "local-dialogposition": {
@@ -338,21 +495,39 @@
   "local-fileposition": {
     "20200812220555-lj3enxa": {
       "endId": "20240508001403-j8ceveg",
-      "focusEnd": 0,
-      "focusId": "20251209210728-3n4o2fi",
-      "focusStart": 0,
+      "focusEnd": 5,
+      "focusId": "20210131155408-hh1z442",
+      "focusStart": 5,
       "rootId": "20200812220555-lj3enxa",
-      "scrollTop": 0,
+      "scrollTop": 400,
       "startId": "20251209210725-2e63bop"
     },
+    "20200813131152-0wk5akh": {
+      "endId": "20221026221105-dyj8l8n",
+      "focusEnd": 3,
+      "focusId": "20210104090757-xwom8ia",
+      "focusStart": 3,
+      "rootId": "20200813131152-0wk5akh",
+      "scrollTop": 300,
+      "startId": "20210104090757-ig8gk5o"
+    },
+    "20201117101902-2ewjjum": {
+      "endId": "20210630172118-iu2hsz3",
+      "focusEnd": 19,
+      "focusId": "20201224120447-qmgtpok",
+      "focusStart": 0,
+      "rootId": "20201117101902-2ewjjum",
+      "scrollTop": 700,
+      "startId": "20210111224435-y1fesd1"
+    },
     "20260527140653-kwv108x": {
-      "endId": "20260527143816-y41cq9u",
+      "endId": "20260527155851-dq78lcc",
       "focusEnd": 0,
-      "focusId": "20260527143816-y41cq9u",
+      "focusId": "20260527155851-dq78lcc",
       "focusStart": 0,
       "rootId": "20260527140653-kwv108x",
       "scrollTop": 0,
-      "startId": "20260527143816-y41cq9u"
+      "startId": "20260527155851-dq78lcc"
     },
     "20260527140712-wuea657": {
       "endId": "20260527140712-lc40nul",
@@ -428,8 +603,7 @@
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527140653-kwv108x/20260527140807-0alu7ke.sy",
-        "/20260527140712-wuea657/20260527140845-wg3dg6p.sy"
+        "/20260527140653-kwv108x/20260527140807-0alu7ke.sy"
       ]
     }
   ],
