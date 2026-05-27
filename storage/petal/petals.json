@@ -1,0 +1,13 @@
+[
+	{
+		"name": "sy-tomato-plugin",
+		"displayName": "番茄工具箱",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]
