@@ -1,6 +1,9 @@
 {
 	"packages": {
 		"plugins": {
+			"siyuan-plugin-copilot": {
+				"installTime": 1779865352952
+			},
 			"siyuan-plugins-index": {
 				"installTime": 1779862618868
 			},

@@ -241,6 +241,90 @@
       "instance": "Tab",
       "pin": false,
       "title": "写作"
+    },
+    {
+      "active": true,
+      "activeTime": "1779866148701",
+      "children": {
+        "customModelData": {
+          "app": {
+            "createdAt": 1770449897358,
+            "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1MDAgNTAwIj4KICA8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMjguNy4xLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogMS4yLjAgQnVpbGQgMTQyKSAgLS0+CiAgPGc+CiAgICA8ZyBpZD0iTGF5ZXJfMiI+CiAgICAgIDxnPgogICAgICAgIDxjaXJjbGUgY3g9IjI0Ni45MyIgY3k9IjI0OS42NyIgcj0iMjQwIi8+CiAgICAgICAgPHBhdGggZD0iTTI0Ni45NCwxMTcuMjVjLTgzLjQsMC0xNTEsNjcuMDQtMTUxLDE0OS43N3Y3MS43aDI3Ljgzdi03LjE1YzAtMzMuNTUsMjcuNDEtNjAuNzUsNjEuMjMtNjAuNzVzNjEuMjMsMjcuMjEsNjEuMjMsNjAuNzV2Ny4xNWgyNy44M3YtNy4xNWMwLTQ4LjgtMzkuODktODguMzMtODkuMDctODguMzMtMTkuMTUsMC0zNi44OSw1Ljk5LTUxLjQyLDE2LjIxLDE1LjItMjkuOTcsNDYuNTEtNTAuNTMsODIuNjUtNTAuNTMsNTEuMDYsMCw5Mi40Niw0MS4wNyw5Mi40Niw5MS43MXYzOC4xaDI3Ljg0di0zOC4xYzAtNjUuODktNTMuODYtMTE5LjMyLTEyMC4zLTExOS4zMi0yOS44NywwLTU3LjIsMTAuOC03OC4yNCwyOC42OSwyMC42Ni0zOC43Myw2MS42OC02NS4xMywxMDguOTUtNjUuMTMsNjguMDMsMCwxMjMuMTcsNTQuNjksMTIzLjE3LDEyMi4xNnY3MS43aDI3Ljgzdi03MS43YzAtODIuNzItNjcuNi0xNDkuNzctMTUxLTE0OS43N1oiIGZpbGw9IiNmZmYiLz4KICAgICAgPC9nPgogICAgPC9nPgogIDwvZz4KPC9zdmc+",
+            "id": "mlc05nrijzlaxnvmkr8",
+            "name": "NotebookLM",
+            "updatedAt": 1770449897358,
+            "url": "https://notebooklm.google.com/"
+          },
+          "time": 1779866138748
+        },
+        "customModelType": "siyuan-plugin-copilotcopilot-webapp",
+        "instance": "Custom"
+      },
+      "icon": "iconWebApp_mlc05nrijzlaxnvmkr8",
+      "instance": "Tab",
+      "pin": false,
+      "title": "NotebookLM"
+    },
+    {
+      "activeTime": "1779866149663",
+      "children": {
+        "customModelData": {
+          "app": {
+            "createdAt": 1770451318473,
+            "icon": "data:image/png;base64,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",
+            "id": "mlc104axkiphy5u0r3",
+            "name": "Qwen",
+            "updatedAt": 1770451318473,
+            "url": "https://chat.qwen.ai/"
+          },
+          "time": 1779866147478
+        },
+        "customModelType": "siyuan-plugin-copilotcopilot-webapp",
+        "instance": "Custom"
+      },
+      "icon": "iconWebApp_chat.qwen.ai",
+      "instance": "Tab",
+      "pin": false,
+      "title": "Qwen Studio"
+    },
+    {
+      "active": true,
+      "activeTime": "1779866150364",
+      "children": {
+        "customModelData": {
+          "app": {
+            "createdAt": 1770451318473,
+            "icon": "data:image/png;base64,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",
+            "id": "mlc104axkiphy5u0r3",
+            "name": "Qwen",
+            "updatedAt": 1770451318473,
+            "url": "https://chat.qwen.ai/"
+          },
+          "time": 1779866111380
+        },
+        "customModelType": "siyuan-plugin-copilotcopilot-webapp",
+        "instance": "Custom"
+      },
+      "icon": "iconWebApp_chat.qwen.ai",
+      "instance": "Tab",
+      "pin": false,
+      "title": "Qwen Studio"
+    },
+    {
+      "active": true,
+      "activeTime": "1779866269836",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140807-0alu7ke",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140807-0alu7ke"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "信息类文本"
     }
   ],
   "local-dialogposition": {
@@ -262,13 +346,13 @@
       "startId": "20251209210725-2e63bop"
     },
     "20260527140653-kwv108x": {
-      "endId": "20260527140754-98aj01l",
+      "endId": "20260527143816-y41cq9u",
       "focusEnd": 0,
-      "focusId": "20260527140653-g13apj6",
+      "focusId": "20260527143816-y41cq9u",
       "focusStart": 0,
       "rootId": "20260527140653-kwv108x",
       "scrollTop": 0,
-      "startId": "20260527140653-g13apj6"
+      "startId": "20260527143816-y41cq9u"
     },
     "20260527140712-wuea657": {
       "endId": "20260527140712-lc40nul",
@@ -298,7 +382,7 @@
       "startId": "20260527140741-gi6qgzq"
     },
     "20260527140807-0alu7ke": {
-      "endId": "20260527140807-o64jbqk",
+      "endId": "20260527143838-xsfsz1v",
       "focusEnd": 0,
       "focusId": "20260527140807-o64jbqk",
       "focusStart": 0,
@@ -344,8 +428,24 @@
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
+        "/20260527140653-kwv108x/20260527140807-0alu7ke.sy",
         "/20260527140712-wuea657/20260527140845-wg3dg6p.sy"
       ]
     }
-  ]
+  ],
+  "local-plugin-docks": {
+    "siyuan-plugin-copilot": {
+      "siyuan-plugin-copilotai-chat-sidebar": {
+        "icon": "iconCopilot",
+        "index": 1,
+        "position": "RightBottom",
+        "show": false,
+        "size": {
+          "height": 0,
+          "width": 400
+        },
+        "title": "Copilot"
+      }
+    }
+  }
 }

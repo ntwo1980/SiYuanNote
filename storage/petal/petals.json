@@ -20,5 +20,16 @@
 		"js": "",
 		"css": "",
 		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-copilot",
+		"displayName": "SiYuan Copilot",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": true,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
 	}
 ]
