@@ -492,6 +492,10 @@
       "width": 1280
     }
   },
+  "local-exportword": {
+    "mergeSubdocs": false,
+    "removeAssets": false
+  },
   "local-fileposition": {
     "20200812220555-lj3enxa": {
       "endId": "20240508001403-j8ceveg",
@@ -603,7 +607,7 @@
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527140653-kwv108x/20260527140807-0alu7ke.sy"
+        "/20260527140653-kwv108x/20260527140807-0alu7ke/20260527164448-bsrwdso.sy"
       ]
     }
   ],
@@ -621,5 +625,77 @@
         "title": "Copilot"
       }
     }
+  },
+  "local-searchdata": {
+    "group": 0,
+    "hPath": "",
+    "hasReplace": false,
+    "idPath": [],
+    "k": "",
+    "method": 0,
+    "page": 1,
+    "query": "",
+    "r": "",
+    "removed": true,
+    "replaceTypes": {
+      "aHref": true,
+      "aText": true,
+      "aTitle": true,
+      "blockRef": true,
+      "code": true,
+      "codeBlock": true,
+      "docTitle": true,
+      "em": true,
+      "fileAnnotationRef": true,
+      "htmlBlock": true,
+      "imgSrc": true,
+      "imgText": true,
+      "imgTitle": true,
+      "inlineMath": true,
+      "inlineMemo": true,
+      "kbd": true,
+      "mark": true,
+      "mathBlock": true,
+      "s": true,
+      "strong": true,
+      "sub": true,
+      "sup": true,
+      "tag": true,
+      "text": true,
+      "u": true
+    },
+    "sort": 0,
+    "types": {
+      "audioBlock": false,
+      "blockquote": false,
+      "callout": false,
+      "codeBlock": true,
+      "databaseBlock": true,
+      "document": true,
+      "embedBlock": false,
+      "heading": true,
+      "htmlBlock": true,
+      "iframeBlock": false,
+      "list": false,
+      "listItem": false,
+      "mathBlock": true,
+      "paragraph": true,
+      "superBlock": false,
+      "table": true,
+      "videoBlock": false,
+      "widgetBlock": false
+    }
+  },
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      ""
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "",
+    "rowTab": ""
   }
 }
