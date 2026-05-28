@@ -1024,20 +1024,19 @@
       "title": "未命名"
     },
     {
-      "active": true,
-      "activeTime": "1779952606071",
+      "activeTime": "1779954639797",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260528082117-1fk236i",
+        "blockId": "20260528085101-eqxttn2",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260528082117-1fk236i"
+        "rootId": "20260528085101-eqxttn2"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "2023年新高考Ⅱ卷"
+      "title": "2022年天津卷"
     }
   ],
   "local-dialogposition": {
@@ -1045,7 +1044,7 @@
       "height": 734,
       "left": 153,
       "top": 40,
-      "width": 1379
+      "width": 1682
     },
     "dialog-setting": {
       "height": 743,
@@ -1133,11 +1132,11 @@
     },
     "20260527140807-0alu7ke": {
       "endId": "20260527163304-gf7zg4w",
-      "focusEnd": 42,
-      "focusId": "20260527163304-q35wdhu",
-      "focusStart": 42,
+      "focusEnd": 15,
+      "focusId": "20260527163304-adlub7n",
+      "focusStart": 15,
       "rootId": "20260527140807-0alu7ke",
-      "scrollTop": 1300,
+      "scrollTop": 38,
       "startId": "20260527163304-adlub7n"
     },
     "20260527140819-qpq6mwr": {
@@ -1229,11 +1228,11 @@
     },
     "20260528084433-fkz60gl": {
       "endId": "20260528084546-q4rreul",
-      "focusEnd": 2,
-      "focusId": "20260528084546-al12pwi",
-      "focusStart": 2,
+      "focusEnd": 10,
+      "focusId": "20260528084546-i98lgd5",
+      "focusStart": 3,
       "rootId": "20260528084433-fkz60gl",
-      "scrollTop": 1747,
+      "scrollTop": 2970,
       "startId": "20260528084456-vu75mr3"
     },
     "20260528084657-ymwxegk": {
@@ -1242,16 +1241,16 @@
       "focusId": "20260528085453-b91z99j",
       "focusStart": 131,
       "rootId": "20260528084657-ymwxegk",
-      "scrollTop": 1800,
+      "scrollTop": 0,
       "startId": "20260528085139-z8ipavm"
     },
     "20260528085101-eqxttn2": {
-      "endId": "20260528085101-i0vnc2f",
-      "focusEnd": 0,
-      "focusId": "20260528085101-619ajm9",
-      "focusStart": 0,
+      "endId": "20260528155118-9w0rxol",
+      "focusEnd": 4,
+      "focusId": "20260528155118-9w0rxol",
+      "focusStart": 4,
       "rootId": "20260528085101-eqxttn2",
-      "scrollTop": 0,
+      "scrollTop": 2509,
       "startId": "20260528085101-619ajm9"
     }
   },
@@ -1280,15 +1279,13 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "语文/现代文阅读/信息类文本/2022年新高考Ⅰ卷",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20260527125801-8mdt6n2/20260527140653-kwv108x/20260527140807-0alu7ke/20260528082329-znbnpvm.sy"
-    ],
-    "k": "中国古典诗论",
+    "idPath": [],
+    "k": "古籍的其他价值",
     "method": 0,
     "page": 1,
-    "query": "中国古典诗论",
+    "query": "古籍的其他价值",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -1344,6 +1341,10 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "古籍的其他价值",
+      "古籍具有文物",
+      "中国人民银行增加天津",
+      "搞好调查研究，一定要从群众中来、到群众中去",
       "中国古典诗论",
       "己所不欲",
       ""
