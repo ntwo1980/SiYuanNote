@@ -822,6 +822,222 @@
       "instance": "Tab",
       "pin": false,
       "title": "2024年北京卷"
+    },
+    {
+      "active": true,
+      "activeTime": "1779951825480",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260528150341-m25p23h",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260528150341-m25p23h"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "My so"
+    },
+    {
+      "activeTime": "1779870819336",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140807-0alu7ke",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140807-0alu7ke"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "信息类文本"
+    },
+    {
+      "activeTime": "1779952384227",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527164448-bsrwdso",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527164448-bsrwdso"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "2024年北京"
+    },
+    {
+      "activeTime": "1779952409661",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260528082329-znbnpvm",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260528082329-znbnpvm"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "2022年新高考Ⅰ卷"
+    },
+    {
+      "active": true,
+      "activeTime": "1779952410556",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260528083050-wf813md",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260528083050-wf813md"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "2022年新高考Ⅱ卷"
+    },
+    {
+      "activeTime": "1779951834126",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140741-hrog3o1",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140741-hrog3o1"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "写作"
+    },
+    {
+      "activeTime": "1779952379855",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140653-kwv108x",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140653-kwv108x"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "现代文阅读"
+    },
+    {
+      "activeTime": "1779869559312",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527140819-qpq6mwr",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527140819-qpq6mwr"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "文学类文本"
+    },
+    {
+      "activeTime": "1779952435912",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260528083050-wf813md",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260528083050-wf813md"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "2022年新高考Ⅱ卷"
+    },
+    {
+      "active": true,
+      "activeTime": "1779952436579",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260528083423-jtxtmyt",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260528083423-jtxtmyt"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "2022年全国甲卷"
+    },
+    {
+      "activeTime": "1779952433766",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260527164448-bsrwdso",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260527164448-bsrwdso"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "2024年北京卷"
+    },
+    {
+      "active": true,
+      "activeTime": "1779952517480",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260528082329-znbnpvm",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260528082329-znbnpvm"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "2022年新高考Ⅰ卷"
+    },
+    {
+      "active": true,
+      "activeTime": "1779952583665",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260528151623-ywcyhuw",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260528151623-ywcyhuw"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "未命名"
+    },
+    {
+      "active": true,
+      "activeTime": "1779952606071",
+      "children": {
+        "action": "cb-get-scroll",
+        "blockId": "20260528082117-1fk236i",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260527125801-8mdt6n2",
+        "rootId": "20260528082117-1fk236i"
+      },
+      "docIcon": "",
+      "instance": "Tab",
+      "pin": false,
+      "title": "2023年新高考Ⅱ卷"
     }
   ],
   "local-dialogposition": {
@@ -837,6 +1053,9 @@
       "top": 32,
       "width": 1280
     }
+  },
+  "local-emojis": {
+    "currentTab": "emoji"
   },
   "local-exportword": {
     "mergeSubdocs": false,
@@ -881,9 +1100,6 @@
     },
     "20260527140653-kwv108x": {
       "endId": "20260527155851-dq78lcc",
-      "focusEnd": 0,
-      "focusId": "20260527155851-dq78lcc",
-      "focusStart": 0,
       "rootId": "20260527140653-kwv108x",
       "scrollTop": 0,
       "startId": "20260527155851-dq78lcc"
@@ -963,7 +1179,7 @@
       "focusId": "20260527164450-juvx5ar",
       "focusStart": 0,
       "rootId": "20260527164448-bsrwdso",
-      "scrollTop": 1999.199951171875,
+      "scrollTop": 1892,
       "startId": "20260527164548-fc200sl"
     },
     "20260528082117-1fk236i": {
@@ -981,7 +1197,7 @@
       "focusId": "20260528084919-uskvni1",
       "focusStart": 2,
       "rootId": "20260528082329-znbnpvm",
-      "scrollTop": 2660,
+      "scrollTop": 0,
       "startId": "20260528082329-6i1tr8u"
     },
     "20260528083050-wf813md": {
@@ -1043,7 +1259,7 @@
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527140653-kwv108x/20260527140807-0alu7ke/20260527164448-bsrwdso.sy"
+        "/20260527140653-kwv108x/20260527140807-0alu7ke/20260528085101-eqxttn2.sy"
       ]
     }
   ],
@@ -1053,10 +1269,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": false,
+        "show": true,
         "size": {
-          "height": 0,
-          "width": 400
+          "height": null,
+          "width": 454
         },
         "title": "Copilot"
       }
