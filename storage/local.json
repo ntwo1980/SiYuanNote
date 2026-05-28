@@ -1314,7 +1314,7 @@
       "focusId": "20260528160621-npgigas",
       "focusStart": 191,
       "rootId": "20260528160456-tb8vtyt",
-      "scrollTop": 1554,
+      "scrollTop": 0,
       "startId": "20260528160519-95r5291"
     },
     "20260528160738-iizqeha": {
@@ -1352,6 +1352,24 @@
       "rootId": "20260528162244-p7e7pne",
       "scrollTop": 4700,
       "startId": "20260528162244-hr3v9o8"
+    },
+    "20260528163431-clh84ob": {
+      "endId": "20260528163654-cjncjfh",
+      "focusEnd": 6,
+      "focusId": "20260528163603-38rqzfx",
+      "focusStart": 6,
+      "rootId": "20260528163431-clh84ob",
+      "scrollTop": 0,
+      "startId": "20260528163536-0t7w3e2"
+    },
+    "20260528163815-2jku33a": {
+      "endId": "20260528164019-56bdwq7",
+      "focusEnd": 16,
+      "focusId": "20260528164019-9l9zldk",
+      "focusStart": 16,
+      "rootId": "20260528163815-2jku33a",
+      "scrollTop": 0,
+      "startId": "20260528163901-8lan268"
     }
   },
   "local-filespaths": [
