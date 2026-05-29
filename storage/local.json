@@ -1191,11 +1191,11 @@
     },
     "20260527140807-0alu7ke": {
       "endId": "20260527163304-gf7zg4w",
-      "focusEnd": 15,
-      "focusId": "20260527163304-adlub7n",
-      "focusStart": 15,
+      "focusEnd": 42,
+      "focusId": "20260527163304-q35wdhu",
+      "focusStart": 42,
       "rootId": "20260527140807-0alu7ke",
-      "scrollTop": 38,
+      "scrollTop": 0,
       "startId": "20260527163304-adlub7n"
     },
     "20260527140819-qpq6mwr": {
@@ -1405,10 +1405,10 @@
     "20260528162244-p7e7pne": {
       "endId": "20260528162940-jdbtf8c",
       "focusEnd": 0,
-      "focusId": "20260528162244-hr3v9o8",
+      "focusId": "20260528162416-tu3fb26",
       "focusStart": 0,
       "rootId": "20260528162244-p7e7pne",
-      "scrollTop": 2400,
+      "scrollTop": 0,
       "startId": "20260528162244-hr3v9o8"
     },
     "20260528163431-clh84ob": {
@@ -1426,7 +1426,7 @@
       "focusId": "20260528163952-inm1d6o",
       "focusStart": 11,
       "rootId": "20260528163815-2jku33a",
-      "scrollTop": 2174,
+      "scrollTop": 1893,
       "startId": "20260528163901-8lan268"
     },
     "20260528191838-cx68wmu": {
