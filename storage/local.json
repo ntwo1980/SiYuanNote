@@ -1450,10 +1450,9 @@
   },
   "local-filespaths": [
     {
-      "notebookId": "20260527125801-8mdt6n2",
+      "notebookId": "20260531092637-tiw90yj",
       "openPaths": [
-        "/20260527140653-kwv108x/20260527140807-0alu7ke/20260528160738-iizqeha.sy",
-        "/20260527140712-wuea657/20260527140858-ofzetw1.sy"
+        "/20260531092638-p7p0ttl.sy"
       ]
     }
   ],
@@ -1463,10 +1462,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": true,
+        "show": false,
         "size": {
-          "height": null,
-          "width": 330
+          "height": 0,
+          "width": 400
         },
         "title": "Copilot"
       }
