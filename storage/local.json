@@ -1025,74 +1025,19 @@
     },
     {
       "active": true,
-      "activeTime": "1779967756174",
+      "activeTime": "1780287321478",
       "children": {
-        "config": {
-          "group": 0,
-          "hPath": "",
-          "hasReplace": false,
-          "idPath": [],
-          "k": "认知与身体的关系一直是认知心理学",
-          "method": 0,
-          "page": 1,
-          "query": "认知与身体的关系一直是认知心理学",
-          "r": "",
-          "removed": true,
-          "replaceTypes": {
-            "aHref": true,
-            "aText": true,
-            "aTitle": true,
-            "blockRef": true,
-            "code": true,
-            "codeBlock": true,
-            "docTitle": true,
-            "em": true,
-            "fileAnnotationRef": true,
-            "htmlBlock": true,
-            "imgSrc": true,
-            "imgText": true,
-            "imgTitle": true,
-            "inlineMath": true,
-            "inlineMemo": true,
-            "kbd": true,
-            "mark": true,
-            "mathBlock": true,
-            "s": true,
-            "strong": true,
-            "sub": true,
-            "sup": true,
-            "tag": true,
-            "text": true,
-            "u": true
-          },
-          "sort": 0,
-          "types": {
-            "audioBlock": false,
-            "blockquote": false,
-            "callout": false,
-            "codeBlock": true,
-            "databaseBlock": true,
-            "document": true,
-            "embedBlock": false,
-            "heading": true,
-            "htmlBlock": true,
-            "iframeBlock": false,
-            "list": false,
-            "listItem": false,
-            "mathBlock": true,
-            "paragraph": true,
-            "superBlock": false,
-            "table": true,
-            "videoBlock": false,
-            "widgetBlock": false
-          }
-        },
-        "instance": "Search"
+        "action": "cb-get-scroll",
+        "blockId": "20260601091932-oaxv9sn",
+        "instance": "Editor",
+        "mode": "wysiwyg",
+        "notebookId": "20260531092637-tiw90yj",
+        "rootId": "20260601091932-oaxv9sn"
       },
-      "icon": "iconSearch",
+      "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "搜索"
+      "title": "未命名"
     }
   ],
   "local-dialogposition": {
@@ -1446,6 +1391,15 @@
       "rootId": "20260528192530-av71gs8",
       "scrollTop": 6619,
       "startId": "20260528192530-dm5nw53"
+    },
+    "20260531092638-p7p0ttl": {
+      "endId": "20260531094103-nuvggne",
+      "focusEnd": 34,
+      "focusId": "20260601111312-6w8t0ii",
+      "focusStart": 34,
+      "rootId": "20260531092638-p7p0ttl",
+      "scrollTop": 15850,
+      "startId": "20260531092721-q8wmpfq"
     }
   },
   "local-filespaths": [
@@ -1453,6 +1407,12 @@
       "notebookId": "20260531092637-tiw90yj",
       "openPaths": [
         "/20260531092638-p7p0ttl.sy"
+      ]
+    },
+    {
+      "notebookId": "20260527125801-8mdt6n2",
+      "openPaths": [
+        "/20260527140653-kwv108x.sy"
       ]
     }
   ],
@@ -1462,10 +1422,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": false,
+        "show": true,
         "size": {
-          "height": 0,
-          "width": 400
+          "height": null,
+          "width": 330
         },
         "title": "Copilot"
       }
@@ -1473,13 +1433,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "提示词/高考语文作文",
     "hasReplace": false,
-    "idPath": [],
-    "k": "认知与身体的关系一直是认知心理学",
+    "idPath": [
+      "20260531092637-tiw90yj/20260531092638-p7p0ttl.sy"
+    ],
+    "k": "天下古今之庸人",
     "method": 0,
     "page": 1,
-    "query": "认知与身体的关系一直是认知心理学",
+    "query": "天下古今之庸人",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -1535,16 +1497,70 @@
     "col": "",
     "colTab": "",
     "keys": [
-      "认知与身体的关系一直是认知心理学",
-      "文学研究有两条腿",
-      "对素食者和肠胃",
-      "古籍的其他价值",
-      "古籍具有文物",
-      "中国人民银行增加天津",
-      "搞好调查研究，一定要从群众中来、到群众中去",
-      "中国古典诗论",
-      "己所不欲",
-      ""
+      "天下古今之庸人",
+      "富贵于我如浮云",
+      "宁为宇宙闲吟客",
+      "海到尽头天作岸",
+      "从善如登",
+      "人有逆天之时",
+      "天青日白",
+      "舟在江海",
+      "君子之心事",
+      "合抱之木",
+      "缘木求鱼",
+      "人生是一匹马，轻快而健壮的马。人，要像骑手那样大胆而细心地驾驭它。",
+      "雪中送炭人间少",
+      "古来多被虚名误",
+      "蜉蝣于",
+      "诗成泣鬼神",
+      "草不谢荣于春风",
+      "君子坦荡荡，小人长戚戚。",
+      "君子坦荡荡",
+      "刑天舞干戚",
+      "临渊羡鱼",
+      "天戴其苍",
+      "身不再得",
+      "门前红叶地",
+      "渊生珠而崖不枯",
+      "窗萤火",
+      "与恶龙缠斗过久",
+      "观千剑而后识器",
+      "丈夫志四海",
+      "负心多是读书人",
+      "空负天生八尺躯",
+      "故能择人而任势",
+      "百无一用是书生",
+      "以利合者",
+      "才能是在寂静中造就",
+      "过往不须泣",
+      "志合者不以山海为远",
+      "令在必信",
+      "驿寄梅花",
+      "知人者智",
+      "自知者明",
+      "千古",
+      "独学而无友",
+      "有志者事竟成破釜沉舟百二秦关",
+      "浴不必江海",
+      "规小节者不能成荣名",
+      "人生芳秽有千载",
+      "路难行钱作马",
+      "力田不如逢年",
+      "晚年省事有奇功",
+      "众里嫣然通一顾",
+      "一叶浮萍归大海",
+      "凭君莫话封侯事",
+      "犹夜行",
+      "花开花落树之常",
+      "水广者鱼大",
+      "谁终将声震人间",
+      "当磊磊落落",
+      "不借春工力",
+      "如弓弩",
+      "柏独在",
+      "忧勤是美德",
+      "人生万事须自为",
+      "薄我货者也"
     ],
     "layout": 0,
     "layoutTab": 0,
