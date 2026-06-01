@@ -1394,11 +1394,11 @@
     },
     "20260531092638-p7p0ttl": {
       "endId": "20260601122104-fjp9bco",
-      "focusEnd": 0,
-      "focusId": "20260531092721-3qyl5vf",
-      "focusStart": 0,
+      "focusEnd": 17,
+      "focusId": "20260601122022-zl0b6rw",
+      "focusStart": 17,
       "rootId": "20260531092638-p7p0ttl",
-      "scrollTop": 412,
+      "scrollTop": 0,
       "startId": "20260531092721-q8wmpfq"
     }
   },
