@@ -1024,19 +1024,19 @@
       "title": "未命名"
     },
     {
-      "activeTime": "1780378103925",
+      "activeTime": "1780388667672",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260602132439-8s7scyf",
+        "blockId": "20260602133842-wr4hb8g",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260602132439-8s7scyf"
+        "rootId": "20260602133842-wr4hb8g"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "2020年北京卷"
+      "title": "2019年浙江卷"
     }
   ],
   "local-dialogposition": {
@@ -1117,12 +1117,12 @@
     },
     "20260531092638-p7p0ttl": {
       "endId": "20260601165128-r460q8x",
-      "focusEnd": 113,
-      "focusId": "20260601165036-akz3bey",
-      "focusStart": 113,
+      "focusEnd": 4,
+      "focusId": "20260602165717-ykcx1jv",
+      "focusStart": 4,
       "rootId": "20260531092638-p7p0ttl",
-      "scrollTop": 17383,
-      "startId": "20260601165036-9gnz09k"
+      "scrollTop": 17000,
+      "startId": "20260601165036-zulfklg"
     },
     "20260602084944-otpo7rh": {
       "endId": "20260602085127-kydc567",
@@ -1474,6 +1474,12 @@
       "rootId": "20260602133842-wr4hb8g",
       "scrollTop": 2127,
       "startId": "20260602133902-ly0t4mo"
+    },
+    "20260602163959-3oqdhrb": {
+      "endId": "20260602163959-hb7gu74",
+      "rootId": "20260602163959-3oqdhrb",
+      "scrollTop": 0,
+      "startId": "20260602163959-hb7gu74"
     }
   },
   "local-filespaths": [
@@ -1507,13 +1513,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "提示词/高考语文作文",
     "hasReplace": false,
-    "idPath": [],
-    "k": "书匠",
+    "idPath": [
+      "20260531092637-tiw90yj/20260531092638-p7p0ttl.sy"
+    ],
+    "k": "文体与结构",
     "method": 0,
     "page": 1,
-    "query": "书匠",
+    "query": "文体与结构",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -1569,6 +1577,10 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "文体与结构",
+      "灵活",
+      "尽可能灵活使用",
+      "必须灵活运用以下三种核心论证方法",
       "书匠",
       "石门阵",
       "移动文化遗产",
@@ -1628,11 +1640,7 @@
       "缘木求鱼",
       "人生是一匹马，轻快而健壮的马。人，要像骑手那样大胆而细心地驾驭它。",
       "雪中送炭人间少",
-      "古来多被虚名误",
-      "蜉蝣于",
-      "诗成泣鬼神",
-      "草不谢荣于春风",
-      "君子坦荡荡，小人长戚戚。"
+      "古来多被虚名误"
     ],
     "layout": 0,
     "layoutTab": 0,
