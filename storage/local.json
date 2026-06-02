@@ -1024,20 +1024,19 @@
       "title": "未命名"
     },
     {
-      "active": true,
-      "activeTime": "1780360739136",
+      "activeTime": "1780360742145",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260527140653-kwv108x",
+        "blockId": "20260527140807-0alu7ke",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260527140653-kwv108x"
+        "rootId": "20260527140807-0alu7ke"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "1. 现代文阅读"
+      "title": "1. 信息类文本"
     }
   ],
   "local-dialogposition": {
@@ -1068,15 +1067,98 @@
       "scrollTop": 0,
       "startId": "20260527155851-dq78lcc"
     },
-    "20260531092638-p7p0ttl": {
-      "endId": "20260602083828-sghihun",
-      "focusEnd": 6,
-      "focusId": "20260602083828-5svwwro",
-      "focusStart": 6,
-      "rootId": "20260531092638-p7p0ttl",
+    "20260527140807-0alu7ke": {
+      "endId": "20260527163304-gf7zg4w",
+      "focusEnd": 15,
+      "focusId": "20260527163304-adlub7n",
+      "focusStart": 15,
+      "rootId": "20260527140807-0alu7ke",
       "scrollTop": 0,
-      "startId": "20260602083828-sghihun",
-      "zoomInId": "20260602083828-sghihun"
+      "startId": "20260527163304-adlub7n"
+    },
+    "20260527164448-bsrwdso": {
+      "endId": "20260528163134-6l3uxgi",
+      "rootId": "20260527164448-bsrwdso",
+      "scrollTop": 0,
+      "startId": "20260527164548-fc200sl"
+    },
+    "20260528160738-iizqeha": {
+      "endId": "20260528160910-vwob86u",
+      "focusEnd": 8,
+      "focusId": "20260528160851-1tv5fov",
+      "focusStart": 6,
+      "rootId": "20260528160738-iizqeha",
+      "scrollTop": 0,
+      "startId": "20260528160758-ui16g6i"
+    },
+    "20260528162244-p7e7pne": {
+      "endId": "20260528162940-jdbtf8c",
+      "rootId": "20260528162244-p7e7pne",
+      "scrollTop": 0,
+      "startId": "20260528162244-hr3v9o8"
+    },
+    "20260528163815-2jku33a": {
+      "endId": "20260528164019-56bdwq7",
+      "focusEnd": 30,
+      "focusId": "20260528163934-7unpxkn",
+      "focusStart": 30,
+      "rootId": "20260528163815-2jku33a",
+      "scrollTop": 2100,
+      "startId": "20260528163901-8lan268"
+    },
+    "20260531092638-p7p0ttl": {
+      "endId": "20260601165128-r460q8x",
+      "focusEnd": 113,
+      "focusId": "20260601165036-akz3bey",
+      "focusStart": 113,
+      "rootId": "20260531092638-p7p0ttl",
+      "scrollTop": 17383,
+      "startId": "20260601165036-9gnz09k"
+    },
+    "20260602084944-otpo7rh": {
+      "endId": "20260602085127-kydc567",
+      "focusEnd": 559,
+      "focusId": "20260602085127-kydc567",
+      "focusStart": 559,
+      "rootId": "20260602084944-otpo7rh",
+      "scrollTop": 269,
+      "startId": "20260602085052-l6wbq51"
+    },
+    "20260602085140-xr2ffcn": {
+      "endId": "20260602085239-evuc85l",
+      "focusEnd": 147,
+      "focusId": "20260602085239-evuc85l",
+      "focusStart": 147,
+      "rootId": "20260602085140-xr2ffcn",
+      "scrollTop": 1406,
+      "startId": "20260602085205-o9ipbka"
+    },
+    "20260602085244-87yp0nx": {
+      "endId": "20260602085344-04j52nz",
+      "focusEnd": 221,
+      "focusId": "20260602085344-04j52nz",
+      "focusStart": 221,
+      "rootId": "20260602085244-87yp0nx",
+      "scrollTop": 1523,
+      "startId": "20260602085311-jae6y2n"
+    },
+    "20260602085450-fzg3014": {
+      "endId": "20260602085557-e23c2vy",
+      "focusEnd": 229,
+      "focusId": "20260602085557-e23c2vy",
+      "focusStart": 229,
+      "rootId": "20260602085450-fzg3014",
+      "scrollTop": 2820,
+      "startId": "20260602085510-jf2a0hf"
+    },
+    "20260602085614-rmghwwj": {
+      "endId": "20260602085715-o1e9jgx",
+      "focusEnd": 248,
+      "focusId": "20260602085715-o1e9jgx",
+      "focusStart": 248,
+      "rootId": "20260602085614-rmghwwj",
+      "scrollTop": 1727,
+      "startId": "20260602085634-vskdlhp"
     }
   },
   "local-filespaths": [
@@ -1089,7 +1171,7 @@
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527140653-kwv108x/20260527140807-0alu7ke/20260528160738-iizqeha.sy"
+        "/20260527140653-kwv108x/20260527140807-0alu7ke/20260602085450-fzg3014.sy"
       ]
     }
   ],
@@ -1110,15 +1192,13 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "提示词/高考语文作文",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20260531092637-tiw90yj/20260531092638-p7p0ttl.sy"
-    ],
-    "k": "小敌之坚",
+    "idPath": [],
+    "k": "移动文化遗产",
     "method": 0,
     "page": 1,
-    "query": "小敌之坚",
+    "query": "移动文化遗产",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -1174,6 +1254,13 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "移动文化遗产",
+      "阅读是人类特有的活动",
+      "由于月球绕地球公转与月球自转",
+      "可移动文化",
+      "苗绣",
+      "禹贡",
+      "中国始终把解决人民吃饭问题作为治国安邦的首要任务",
       "小敌之坚",
       "晋师三豕涉河",
       "百里奚之未遇时也",
@@ -1230,14 +1317,7 @@
       "草不谢荣于春风",
       "君子坦荡荡，小人长戚戚。",
       "君子坦荡荡",
-      "刑天舞干戚",
-      "临渊羡鱼",
-      "天戴其苍",
-      "身不再得",
-      "门前红叶地",
-      "渊生珠而崖不枯",
-      "窗萤火",
-      "与恶龙缠斗过久"
+      "刑天舞干戚"
     ],
     "layout": 0,
     "layoutTab": 0,
