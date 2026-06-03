@@ -1025,7 +1025,7 @@
     },
     {
       "active": true,
-      "activeTime": "1780447915182",
+      "activeTime": "1780451428654",
       "children": {
         "action": "cb-get-scroll",
         "blockId": "20260603085154-ehkhc0g",
@@ -1117,13 +1117,13 @@
       "startId": "20260528163901-8lan268"
     },
     "20260531092638-p7p0ttl": {
-      "endId": "20260601165036-9gnz09k",
-      "focusEnd": 45,
-      "focusId": "20260601165036-sv9pauh",
-      "focusStart": 0,
+      "endId": "20260603095040-c2vsxei",
+      "focusEnd": 64,
+      "focusId": "20260603095040-uft8lnv",
+      "focusStart": 64,
       "rootId": "20260531092638-p7p0ttl",
-      "scrollTop": 0,
-      "startId": "20260601165036-zulfklg"
+      "scrollTop": 43029,
+      "startId": "20260603095040-uxv408b"
     },
     "20260602084944-otpo7rh": {
       "endId": "20260602085127-kydc567",
@@ -1475,18 +1475,6 @@
       "rootId": "20260602133842-wr4hb8g",
       "scrollTop": 2127,
       "startId": "20260602133902-ly0t4mo"
-    },
-    "20260602163959-3oqdhrb": {
-      "endId": "20260602163959-hb7gu74",
-      "rootId": "20260602163959-3oqdhrb",
-      "scrollTop": 0,
-      "startId": "20260602163959-hb7gu74"
-    },
-    "20260603085154-ehkhc0g": {
-      "endId": "20260603085154-fhn0vfd",
-      "rootId": "20260603085154-ehkhc0g",
-      "scrollTop": 0,
-      "startId": "20260603085154-fhn0vfd"
     }
   },
   "local-filespaths": [
