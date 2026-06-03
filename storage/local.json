@@ -1024,19 +1024,20 @@
       "title": "未命名"
     },
     {
-      "activeTime": "1780388667672",
+      "active": true,
+      "activeTime": "1780447915182",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260602133842-wr4hb8g",
+        "blockId": "20260603085154-ehkhc0g",
         "instance": "Editor",
         "mode": "wysiwyg",
-        "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260602133842-wr4hb8g"
+        "notebookId": "20260531092637-tiw90yj",
+        "rootId": "20260603085154-ehkhc0g"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "2019年浙江卷"
+      "title": "雨果"
     }
   ],
   "local-dialogposition": {
@@ -1480,13 +1481,19 @@
       "rootId": "20260602163959-3oqdhrb",
       "scrollTop": 0,
       "startId": "20260602163959-hb7gu74"
+    },
+    "20260603085154-ehkhc0g": {
+      "endId": "20260603085154-fhn0vfd",
+      "rootId": "20260603085154-ehkhc0g",
+      "scrollTop": 0,
+      "startId": "20260603085154-fhn0vfd"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20260531092637-tiw90yj",
       "openPaths": [
-        "/20260531092638-p7p0ttl.sy"
+        "/20260531092638-p7p0ttl/20260602163959-3oqdhrb.sy"
       ]
     },
     {
@@ -1518,10 +1525,10 @@
     "idPath": [
       "20260531092637-tiw90yj/20260531092638-p7p0ttl.sy"
     ],
-    "k": "文体与结构",
+    "k": "雨果",
     "method": 0,
     "page": 1,
-    "query": "文体与结构",
+    "query": "雨果",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -1577,6 +1584,9 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "雨果",
+      "在逆境中，把俯视墓穴的悲痛，转换为仰望星空的情感。",
+      "在逆境中",
       "文体与结构",
       "灵活",
       "尽可能灵活使用",
@@ -1637,10 +1647,7 @@
       "舟在江海",
       "君子之心事",
       "合抱之木",
-      "缘木求鱼",
-      "人生是一匹马，轻快而健壮的马。人，要像骑手那样大胆而细心地驾驭它。",
-      "雪中送炭人间少",
-      "古来多被虚名误"
+      "缘木求鱼"
     ],
     "layout": 0,
     "layoutTab": 0,
