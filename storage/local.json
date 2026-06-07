@@ -1025,19 +1025,19 @@
     },
     {
       "active": true,
-      "activeTime": "1780644854636",
+      "activeTime": "1780837503740",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260605153129-t924yix",
+        "blockId": "20260527164448-bsrwdso",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260605153129-t924yix"
+        "rootId": "20260527164448-bsrwdso"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "2019年北京卷"
+      "title": "2024年北京卷 ✅"
     }
   ],
   "local-dialogposition": {
@@ -1118,11 +1118,11 @@
     },
     "20260527164448-bsrwdso": {
       "endId": "20260528163134-6l3uxgi",
-      "focusEnd": 0,
-      "focusId": "20260527164548-fc200sl",
-      "focusStart": 0,
+      "focusEnd": 136,
+      "focusId": "20260527164450-z7vks9g",
+      "focusStart": 136,
       "rootId": "20260527164448-bsrwdso",
-      "scrollTop": 1000,
+      "scrollTop": 2040,
       "startId": "20260527164548-fc200sl"
     },
     "20260528160054-z595213": {
@@ -1189,13 +1189,14 @@
       "startId": "20260528163536-0t7w3e2"
     },
     "20260528163815-2jku33a": {
-      "endId": "20260528164019-56bdwq7",
-      "focusEnd": 30,
-      "focusId": "20260528163934-7unpxkn",
-      "focusStart": 30,
+      "endId": "20260528163952-ubnqgmn",
+      "focusEnd": 2,
+      "focusId": "20260528163952-inm1d6o",
+      "focusStart": 2,
       "rootId": "20260528163815-2jku33a",
-      "scrollTop": 2100,
-      "startId": "20260528163901-8lan268"
+      "scrollTop": 0,
+      "startId": "20260528163952-ubnqgmn",
+      "zoomInId": "20260528163952-ubnqgmn"
     },
     "20260528191838-cx68wmu": {
       "endId": "20260528192120-g74fowg",
@@ -1230,7 +1231,7 @@
       "focusId": "20260605101634-b6zargg",
       "focusStart": 2,
       "rootId": "20260602084944-otpo7rh",
-      "scrollTop": 2117,
+      "scrollTop": 0,
       "startId": "20260602085052-l6wbq51"
     },
     "20260602085140-xr2ffcn": {
@@ -1248,7 +1249,7 @@
       "focusId": "20260605101648-w9y6y7l",
       "focusStart": 2,
       "rootId": "20260602085244-87yp0nx",
-      "scrollTop": 623,
+      "scrollTop": 0,
       "startId": "20260602085311-jae6y2n"
     },
     "20260602085450-fzg3014": {
@@ -1257,16 +1258,16 @@
       "focusId": "20260605101628-c9pm077",
       "focusStart": 2,
       "rootId": "20260602085450-fzg3014",
-      "scrollTop": 1220,
+      "scrollTop": 0,
       "startId": "20260602085510-jf2a0hf"
     },
     "20260602085614-rmghwwj": {
       "endId": "20260602085715-o1e9jgx",
-      "focusEnd": 2,
-      "focusId": "20260605101837-co7jsfi",
-      "focusStart": 2,
+      "focusEnd": 0,
+      "focusId": "20260602085634-vskdlhp",
+      "focusStart": 0,
       "rootId": "20260602085614-rmghwwj",
-      "scrollTop": 627,
+      "scrollTop": 0,
       "startId": "20260602085634-vskdlhp"
     },
     "20260602091418-uvz5uvg": {
@@ -2459,8 +2460,9 @@
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527140653-kwv108x/20260605100929-8a8hbsx/20260605102726-jt3tmm5.sy",
-        "/20260527140712-wuea657/20260527140858-ofzetw1/20260605153129-t924yix.sy"
+        "/20260527140712-wuea657/20260527140858-ofzetw1/20260605153129-t924yix.sy",
+        "/20260527140653-kwv108x/20260527140807-0alu7ke/20260602085450-fzg3014.sy",
+        "/20260527140653-kwv108x/20260605100929-8a8hbsx/20260605102726-jt3tmm5.sy"
       ]
     }
   ],
@@ -2470,10 +2472,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": true,
+        "show": false,
         "size": {
-          "height": null,
-          "width": 321
+          "height": 0,
+          "width": 400
         },
         "title": "Copilot"
       }
@@ -2484,10 +2486,10 @@
     "hPath": "",
     "hasReplace": false,
     "idPath": [],
-    "k": "于是放弃了建造游观之台的工程。",
+    "k": "",
     "method": 0,
     "page": 1,
-    "query": "于是放弃了建造游观之台的工程。",
+    "query": "",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -2543,6 +2545,9 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "",
+      "手段",
+      "意义",
       "于是放弃了建造游观之台的工程。",
       "周公曰",
       "去故宫参观时",
@@ -2578,7 +2583,6 @@
       "考古写史",
       "考古学",
       "素食者",
-      "",
       "呼兰河传",
       "萨丽娃姐姐的春天",
       "优先",
@@ -2604,9 +2608,7 @@
       "国人谤王",
       "没有比脚更长的路",
       "齐桓公见小臣稷",
-      "个人可以被毁",
-      "柴米油盐",
-      "昔秦伯嫁其女于晋公子"
+      "个人可以被毁"
     ],
     "layout": 0,
     "layoutTab": 0,
