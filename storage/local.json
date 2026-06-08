@@ -1218,11 +1218,11 @@
     },
     "20260531092638-p7p0ttl": {
       "endId": "20260605082558-c3bbw3m",
-      "focusEnd": 33,
-      "focusId": "20260605082558-xh32tfx",
-      "focusStart": 33,
+      "focusEnd": 12,
+      "focusId": "20260605082558-3jaebjv",
+      "focusStart": 12,
       "rootId": "20260531092638-p7p0ttl",
-      "scrollTop": 20267,
+      "scrollTop": 12067,
       "startId": "20260605082558-i11cy4s"
     },
     "20260602084944-otpo7rh": {
@@ -2451,11 +2451,11 @@
     },
     "20260608100737-r3g99x8": {
       "endId": "20260608100742-96rm1lp",
-      "focusEnd": 17,
-      "focusId": "20260608100742-jxgr3ke",
-      "focusStart": 17,
+      "focusEnd": 9,
+      "focusId": "20260608100742-7dm2ebz",
+      "focusStart": 9,
       "rootId": "20260608100737-r3g99x8",
-      "scrollTop": 0,
+      "scrollTop": 1100,
       "startId": "20260608100742-jxgr3ke"
     }
   },
@@ -2490,13 +2490,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "",
+    "hPath": "提示词/高考语文作文",
     "hasReplace": false,
-    "idPath": [],
-    "k": "",
+    "idPath": [
+      "20260531092637-tiw90yj/20260531092638-p7p0ttl.sy"
+    ],
+    "k": "理论是灰色的",
     "method": 0,
     "page": 1,
-    "query": "",
+    "query": "理论是灰色的",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -2552,6 +2554,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "理论是灰色的",
       "",
       "手段",
       "意义",
@@ -2614,8 +2617,7 @@
       "百里奚之未遇时也",
       "国人谤王",
       "没有比脚更长的路",
-      "齐桓公见小臣稷",
-      "个人可以被毁"
+      "齐桓公见小臣稷"
     ],
     "layout": 0,
     "layoutTab": 0,
