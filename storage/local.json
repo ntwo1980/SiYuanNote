@@ -1024,19 +1024,20 @@
       "title": "未命名"
     },
     {
-      "activeTime": "1780963733385",
+      "active": true,
+      "activeTime": "1780984052613",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260608100737-r3g99x8",
+        "blockId": "20260609125423-2xhcu1t",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260608100737-r3g99x8"
+        "rootId": "20260609125423-2xhcu1t"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "做题痕迹"
+      "title": "2021年新高考Ⅰ卷"
     }
   ],
   "local-dialogposition": {
@@ -1069,6 +1070,9 @@
     },
     "20260527140725-ilpe7hs": {
       "endId": "20260527140725-sq7t3hu",
+      "focusEnd": 0,
+      "focusId": "20260527140725-sq7t3hu",
+      "focusStart": 0,
       "rootId": "20260527140725-ilpe7hs",
       "scrollTop": 0,
       "startId": "20260527140725-sq7t3hu"
@@ -2099,20 +2103,20 @@
     },
     "20260605130350-piwjb8b": {
       "endId": "20260605130442-21gftqp",
-      "focusEnd": 490,
-      "focusId": "20260605130442-21gftqp",
-      "focusStart": 490,
+      "focusEnd": 151,
+      "focusId": "20260605130405-0283tss",
+      "focusStart": 151,
       "rootId": "20260605130350-piwjb8b",
       "scrollTop": 0,
       "startId": "20260605130405-tuqgp49"
     },
     "20260605131916-9fxv00e": {
       "endId": "20260605132036-dvp332m",
-      "focusEnd": 193,
-      "focusId": "20260605132036-dvp332m",
-      "focusStart": 193,
+      "focusEnd": 4,
+      "focusId": "20260605131957-t2n2zid",
+      "focusStart": 0,
       "rootId": "20260605131916-9fxv00e",
-      "scrollTop": 2904,
+      "scrollTop": 26,
       "startId": "20260605131957-m9bbjay"
     },
     "20260605133724-lcyro7m": {
@@ -2414,11 +2418,11 @@
     },
     "20260605153129-t924yix": {
       "endId": "20260605153129-pbsunqa",
-      "focusEnd": 205,
-      "focusId": "20260605153233-fhebn7q",
-      "focusStart": 205,
+      "focusEnd": 2,
+      "focusId": "20260605153129-dunl1hb",
+      "focusStart": 0,
       "rootId": "20260605153129-t924yix",
-      "scrollTop": 915,
+      "scrollTop": 515,
       "startId": "20260605153157-hb60c2z"
     },
     "20260605153303-fi7jocj": {
@@ -2445,7 +2449,7 @@
       "focusId": "20260605153753-i2h94i9",
       "focusStart": 33,
       "rootId": "20260605153645-9ullwsg",
-      "scrollTop": 256,
+      "scrollTop": 0,
       "startId": "20260605153659-ehd2nny"
     },
     "20260608100737-r3g99x8": {
@@ -2465,6 +2469,222 @@
       "rootId": "20260609080949-ih8f1ns",
       "scrollTop": 0,
       "startId": "20260609080951-l6hvrgv"
+    },
+    "20260609124420-6ggespr": {
+      "endId": "20260609124531-elmtqda",
+      "focusEnd": 54,
+      "focusId": "20260609124531-elmtqda",
+      "focusStart": 54,
+      "rootId": "20260609124420-6ggespr",
+      "scrollTop": 783,
+      "startId": "20260609124435-4k1cw16"
+    },
+    "20260609124551-tdsn87s": {
+      "endId": "20260609124703-4yesai9",
+      "focusEnd": 73,
+      "focusId": "20260609124703-4yesai9",
+      "focusStart": 73,
+      "rootId": "20260609124551-tdsn87s",
+      "scrollTop": 845,
+      "startId": "20260609124620-83eq9k7"
+    },
+    "20260609124709-gzzi1ph": {
+      "endId": "20260609124837-oymx4dj",
+      "focusEnd": 108,
+      "focusId": "20260609124837-oymx4dj",
+      "focusStart": 108,
+      "rootId": "20260609124709-gzzi1ph",
+      "scrollTop": 805,
+      "startId": "20260609124730-l79j81m"
+    },
+    "20260609124846-835op9a": {
+      "endId": "20260609124935-pqsvdmd",
+      "focusEnd": 177,
+      "focusId": "20260609124935-pqsvdmd",
+      "focusStart": 177,
+      "rootId": "20260609124846-835op9a",
+      "scrollTop": 973,
+      "startId": "20260609124902-67ms3hb"
+    },
+    "20260609124945-9wjzwxd": {
+      "endId": "20260609125032-lb3ne9a",
+      "focusEnd": 4,
+      "focusId": "20260609125032-lb3ne9a",
+      "focusStart": 4,
+      "rootId": "20260609124945-9wjzwxd",
+      "scrollTop": 1063,
+      "startId": "20260609124959-ipjuur9"
+    },
+    "20260609125043-pukub3d": {
+      "endId": "20260609125144-v7t9qjn",
+      "focusEnd": 4,
+      "focusId": "20260609125144-v7t9qjn",
+      "focusStart": 4,
+      "rootId": "20260609125043-pukub3d",
+      "scrollTop": 0,
+      "startId": "20260609125104-s461trk"
+    },
+    "20260609125205-vp2m43t": {
+      "endId": "20260609125310-8bjx8xu",
+      "focusEnd": 89,
+      "focusId": "20260609125310-8bjx8xu",
+      "focusStart": 89,
+      "rootId": "20260609125205-vp2m43t",
+      "scrollTop": 677,
+      "startId": "20260609125205-c72wgvl"
+    },
+    "20260609125322-o87qku0": {
+      "endId": "20260609134731-bpsvjkq",
+      "focusEnd": 107,
+      "focusId": "20260609125333-8wrxrhz",
+      "focusStart": 107,
+      "rootId": "20260609125322-o87qku0",
+      "scrollTop": 900,
+      "startId": "20260609125333-gv5y4cd"
+    },
+    "20260609125526-hwuku0j": {
+      "endId": "20260609125617-c9csbbh",
+      "focusEnd": 107,
+      "focusId": "20260609125617-c9csbbh",
+      "focusStart": 107,
+      "rootId": "20260609125526-hwuku0j",
+      "scrollTop": 389,
+      "startId": "20260609125541-gfw6gxj"
+    },
+    "20260609125638-cu9rchl": {
+      "endId": "20260609125734-0u1huz5",
+      "focusEnd": 82,
+      "focusId": "20260609125734-0u1huz5",
+      "focusStart": 82,
+      "rootId": "20260609125638-cu9rchl",
+      "scrollTop": 1057,
+      "startId": "20260609125655-i4gewxv"
+    },
+    "20260609125745-k12bfi8": {
+      "endId": "20260609125840-f83u8vj",
+      "focusEnd": 156,
+      "focusId": "20260609125840-f83u8vj",
+      "focusStart": 156,
+      "rootId": "20260609125745-k12bfi8",
+      "scrollTop": 995,
+      "startId": "20260609125806-0jr8tie"
+    },
+    "20260609125853-ji7laj2": {
+      "endId": "20260609130009-857v2mz",
+      "focusEnd": 0,
+      "focusId": "20260609130009-857v2mz",
+      "focusStart": 0,
+      "rootId": "20260609125853-ji7laj2",
+      "scrollTop": 651,
+      "startId": "20260609125906-tnvvs66"
+    },
+    "20260609130524-0a6ev6n": {
+      "endId": "20260609130622-3zfemie",
+      "focusEnd": 4,
+      "focusId": "20260609130622-3zfemie",
+      "focusStart": 4,
+      "rootId": "20260609130524-0a6ev6n",
+      "scrollTop": 1005,
+      "startId": "20260609130539-0ybuetw"
+    },
+    "20260609130630-clooagd": {
+      "endId": "20260609131056-poyyuif",
+      "focusEnd": 2,
+      "focusId": "20260609131041-kk9dli7",
+      "focusStart": 2,
+      "rootId": "20260609130630-clooagd",
+      "scrollTop": 553,
+      "startId": "20260609130645-aoq9efz"
+    },
+    "20260609130748-x7fx7x4": {
+      "endId": "20260609130849-h9behff",
+      "focusEnd": 4,
+      "focusId": "20260609130849-h9behff",
+      "focusStart": 4,
+      "rootId": "20260609130748-x7fx7x4",
+      "scrollTop": 0,
+      "startId": "20260609130807-8mbfe88"
+    },
+    "20260609131223-ivmhlmg": {
+      "endId": "20260609131309-ur3nihp",
+      "focusEnd": 4,
+      "focusId": "20260609131309-ur3nihp",
+      "focusStart": 4,
+      "rootId": "20260609131223-ivmhlmg",
+      "scrollTop": 729,
+      "startId": "20260609131235-se3hwjy"
+    },
+    "20260609131321-cm4i5gm": {
+      "endId": "20260609131408-elm9bhu",
+      "focusEnd": 4,
+      "focusId": "20260609131408-elm9bhu",
+      "focusStart": 4,
+      "rootId": "20260609131321-cm4i5gm",
+      "scrollTop": 1415,
+      "startId": "20260609131334-xyiy60w"
+    },
+    "20260609132126-7tw32ac": {
+      "endId": "20260609132214-c8inn6w",
+      "focusEnd": 4,
+      "focusId": "20260609132214-c8inn6w",
+      "focusStart": 4,
+      "rootId": "20260609132126-7tw32ac",
+      "scrollTop": 1351,
+      "startId": "20260609132143-f72vypw"
+    },
+    "20260609132223-slzngq5": {
+      "endId": "20260609132328-5o5hijh",
+      "focusEnd": 4,
+      "focusId": "20260609132328-5o5hijh",
+      "focusStart": 4,
+      "rootId": "20260609132223-slzngq5",
+      "scrollTop": 900,
+      "startId": "20260609132239-tckgo97"
+    },
+    "20260609132344-rf5q5aw": {
+      "endId": "20260609132719-z59ea5t",
+      "focusEnd": 1,
+      "focusId": "20260609132719-9qkw9va",
+      "focusStart": 1,
+      "rootId": "20260609132344-rf5q5aw",
+      "scrollTop": 0,
+      "startId": "20260609132408-v2tp4qr"
+    },
+    "20260609132914-n3qlaln": {
+      "endId": "20260609133000-eofk1z7",
+      "focusEnd": 27,
+      "focusId": "20260609133000-xsh7uka",
+      "focusStart": 27,
+      "rootId": "20260609132914-n3qlaln",
+      "scrollTop": 1171,
+      "startId": "20260609132928-596wbop"
+    },
+    "20260609133027-0m28las": {
+      "endId": "20260609133132-n27hzbp",
+      "focusEnd": 4,
+      "focusId": "20260609133132-n27hzbp",
+      "focusStart": 4,
+      "rootId": "20260609133027-0m28las",
+      "scrollTop": 1345,
+      "startId": "20260609133027-h9s5wod"
+    },
+    "20260609133144-5fk2xsj": {
+      "endId": "20260609133227-3tkhg11",
+      "focusEnd": 4,
+      "focusId": "20260609133227-3tkhg11",
+      "focusStart": 4,
+      "rootId": "20260609133144-5fk2xsj",
+      "scrollTop": 1315,
+      "startId": "20260609133144-jdoqxg3"
+    },
+    "20260609133244-sftc5wd": {
+      "endId": "20260609133343-7rr699e",
+      "focusEnd": 4,
+      "focusId": "20260609133343-7rr699e",
+      "focusStart": 4,
+      "rootId": "20260609133244-sftc5wd",
+      "scrollTop": 1316,
+      "startId": "20260609133305-p1q9o4k"
     }
   },
   "local-filespaths": [
@@ -2477,7 +2697,7 @@
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527140653-kwv108x.sy"
+        "/20260527140725-ilpe7hs/20260609125853-ji7laj2.sy"
       ]
     }
   ],
@@ -2498,15 +2718,13 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "提示词/高考语文作文",
+    "hPath": "",
     "hasReplace": false,
-    "idPath": [
-      "20260531092637-tiw90yj/20260531092638-p7p0ttl.sy"
-    ],
-    "k": "理论是灰色的",
+    "idPath": [],
+    "k": "殷墟",
     "method": 0,
     "page": 1,
-    "query": "理论是灰色的",
+    "query": "殷墟",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -2562,6 +2780,21 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "殷墟",
+      "在立春之日",
+      "让群众早日摆脱贫困",
+      "是中国古人的一项重要发明",
+      "我决定步行回家",
+      "我国数字经济欣欣向荣",
+      "雪变色",
+      "冬季",
+      "近日一组拍自南极科考站附近的照片引发关注",
+      "欢快的锣鼓敲起来",
+      "又是一年槐花儿飘香的季节",
+      "能否将珍贵的文物置于掌中观赏品味",
+      "节日期间",
+      "事有凑巧",
+      "先王之时",
       "理论是灰色的",
       "",
       "手段",
@@ -2610,22 +2843,7 @@
       "文体与结构",
       "灵活",
       "尽可能灵活使用",
-      "必须灵活运用以下三种核心论证方法",
-      "书匠",
-      "石门阵",
-      "移动文化遗产",
-      "阅读是人类特有的活动",
-      "由于月球绕地球公转与月球自转",
-      "可移动文化",
-      "苗绣",
-      "禹贡",
-      "中国始终把解决人民吃饭问题作为治国安邦的首要任务",
-      "小敌之坚",
-      "晋师三豕涉河",
-      "百里奚之未遇时也",
-      "国人谤王",
-      "没有比脚更长的路",
-      "齐桓公见小臣稷"
+      "必须灵活运用以下三种核心论证方法"
     ],
     "layout": 0,
     "layoutTab": 0,
