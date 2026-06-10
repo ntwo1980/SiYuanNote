@@ -1024,20 +1024,19 @@
       "title": "未命名"
     },
     {
-      "active": true,
-      "activeTime": "1780984052613",
+      "activeTime": "1781056794347",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260609125423-2xhcu1t",
+        "blockId": "20260610095953-k05ykhz",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260609125423-2xhcu1t"
+        "rootId": "20260610095953-k05ykhz"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "2021年新高考Ⅰ卷"
+      "title": "做规划与下功夫"
     }
   ],
   "local-dialogposition": {
@@ -1184,11 +1183,11 @@
     },
     "20260528163431-clh84ob": {
       "endId": "20260528163654-cjncjfh",
-      "focusEnd": 0,
-      "focusId": "20260528163536-0t7w3e2",
-      "focusStart": 0,
+      "focusEnd": 50,
+      "focusId": "20260528163603-ospfl8f",
+      "focusStart": 50,
       "rootId": "20260528163431-clh84ob",
-      "scrollTop": 1200,
+      "scrollTop": 0,
       "startId": "20260528163536-0t7w3e2"
     },
     "20260528163815-2jku33a": {
@@ -1257,11 +1256,11 @@
     },
     "20260602085450-fzg3014": {
       "endId": "20260602085557-e23c2vy",
-      "focusEnd": 2,
-      "focusId": "20260605101628-c9pm077",
-      "focusStart": 2,
+      "focusEnd": 14,
+      "focusId": "20260602085510-t2vvkvy",
+      "focusStart": 14,
       "rootId": "20260602085450-fzg3014",
-      "scrollTop": 0,
+      "scrollTop": 200,
       "startId": "20260602085510-jf2a0hf"
     },
     "20260602085614-rmghwwj": {
@@ -2462,21 +2461,21 @@
       "startId": "20260608100742-jxgr3ke"
     },
     "20260609080949-ih8f1ns": {
-      "endId": "20260609080951-r7r71cf",
+      "endId": "20260610081138-88x17ei",
       "focusEnd": 0,
-      "focusId": "20260609080951-l6hvrgv",
+      "focusId": "20260609080951-ybxcv2g",
       "focusStart": 0,
       "rootId": "20260609080949-ih8f1ns",
-      "scrollTop": 0,
+      "scrollTop": 892,
       "startId": "20260609080951-l6hvrgv"
     },
     "20260609124420-6ggespr": {
       "endId": "20260609124531-elmtqda",
-      "focusEnd": 54,
-      "focusId": "20260609124531-elmtqda",
-      "focusStart": 54,
+      "focusEnd": 23,
+      "focusId": "20260609124531-kl02u2e",
+      "focusStart": 23,
       "rootId": "20260609124420-6ggespr",
-      "scrollTop": 783,
+      "scrollTop": 0,
       "startId": "20260609124435-4k1cw16"
     },
     "20260609124551-tdsn87s": {
@@ -2530,7 +2529,7 @@
       "focusId": "20260609125310-8bjx8xu",
       "focusStart": 89,
       "rootId": "20260609125205-vp2m43t",
-      "scrollTop": 677,
+      "scrollTop": 0,
       "startId": "20260609125205-c72wgvl"
     },
     "20260609125322-o87qku0": {
@@ -2685,6 +2684,150 @@
       "rootId": "20260609133244-sftc5wd",
       "scrollTop": 1316,
       "startId": "20260609133305-p1q9o4k"
+    },
+    "20260610091601-wtrlw2l": {
+      "endId": "20260610091601-shbzn94",
+      "focusEnd": 0,
+      "focusId": "20260610091601-shbzn94",
+      "focusStart": 0,
+      "rootId": "20260610091601-wtrlw2l",
+      "scrollTop": 0,
+      "startId": "20260610091601-shbzn94"
+    },
+    "20260610091652-ulr06ys": {
+      "endId": "20260610091710-amknnw5",
+      "focusEnd": 0,
+      "focusId": "20260610091710-nqsxycx",
+      "focusStart": 0,
+      "rootId": "20260610091652-ulr06ys",
+      "scrollTop": 0,
+      "startId": "20260610091710-nqsxycx"
+    },
+    "20260610092121-rqt0l80": {
+      "endId": "20260610092307-tjj8phw",
+      "focusEnd": 0,
+      "focusId": "20260610092307-ehzkqjz",
+      "focusStart": 0,
+      "rootId": "20260610092121-rqt0l80",
+      "scrollTop": 2,
+      "startId": "20260610092307-iqci52f"
+    },
+    "20260610092542-v0ufjc5": {
+      "endId": "20260610092618-wna876e",
+      "focusEnd": 0,
+      "focusId": "20260610092544-7cdhozv",
+      "focusStart": 0,
+      "rootId": "20260610092542-v0ufjc5",
+      "scrollTop": 1268,
+      "startId": "20260610092544-iyaz7yf"
+    },
+    "20260610093604-8izw6rp": {
+      "endId": "20260610095439-qrqauwf",
+      "focusEnd": 0,
+      "focusId": "20260610095439-h20gw0o",
+      "focusStart": 0,
+      "rootId": "20260610093604-8izw6rp",
+      "scrollTop": 0,
+      "startId": "20260610095439-h20gw0o"
+    },
+    "20260610094736-vtof0q4": {
+      "endId": "20260610094736-j1kbsrt",
+      "focusEnd": 0,
+      "focusId": "20260610094736-j1kbsrt",
+      "focusStart": 0,
+      "rootId": "20260610094736-vtof0q4",
+      "scrollTop": 0,
+      "startId": "20260610094736-j1kbsrt"
+    },
+    "20260610095338-68e4hfi": {
+      "endId": "20260610095505-pofn141",
+      "focusEnd": 15,
+      "focusId": "20260610095505-pofn141",
+      "focusStart": 15,
+      "rootId": "20260610095338-68e4hfi",
+      "scrollTop": 0,
+      "startId": "20260610095505-3r2k2j9"
+    },
+    "20260610095632-lhlgqr0": {
+      "endId": "20260610095716-cz0eym0",
+      "focusEnd": 0,
+      "focusId": "20260610095716-cz0eym0",
+      "focusStart": 0,
+      "rootId": "20260610095632-lhlgqr0",
+      "scrollTop": 0,
+      "startId": "20260610095649-lfwy180"
+    },
+    "20260610095720-sagn1kp": {
+      "endId": "20260610095841-i8tcxbk",
+      "focusEnd": 109,
+      "focusId": "20260610095841-i8tcxbk",
+      "focusStart": 109,
+      "rootId": "20260610095720-sagn1kp",
+      "scrollTop": 0,
+      "startId": "20260610095841-k8pqw5k"
+    },
+    "20260610095953-k05ykhz": {
+      "endId": "20260610100014-uojcoun",
+      "focusEnd": 42,
+      "focusId": "20260610100014-uojcoun",
+      "focusStart": 42,
+      "rootId": "20260610095953-k05ykhz",
+      "scrollTop": 0,
+      "startId": "20260610100014-hki2q2u"
+    },
+    "20260610100215-mrv3kww": {
+      "endId": "20260610100229-pc6mbjq",
+      "focusEnd": 50,
+      "focusId": "20260610100229-pc6mbjq",
+      "focusStart": 50,
+      "rootId": "20260610100215-mrv3kww",
+      "scrollTop": 0,
+      "startId": "20260610100229-fd61h7c"
+    },
+    "20260610100236-p2mta81": {
+      "endId": "20260610100339-tvinptw",
+      "focusEnd": 0,
+      "focusId": "20260610100339-aiwgzfj",
+      "focusStart": 0,
+      "rootId": "20260610100236-p2mta81",
+      "scrollTop": 0,
+      "startId": "20260610100339-aiwgzfj"
+    },
+    "20260610100528-dmfnl1o": {
+      "endId": "20260610100542-0nof3wg",
+      "focusEnd": 21,
+      "focusId": "20260610100542-0nof3wg",
+      "focusStart": 21,
+      "rootId": "20260610100528-dmfnl1o",
+      "scrollTop": 0,
+      "startId": "20260610100542-i5lms5t"
+    },
+    "20260610100549-cua0app": {
+      "endId": "20260610100628-ux8tlbh",
+      "focusEnd": 33,
+      "focusId": "20260610100628-z3xukjj",
+      "focusStart": 33,
+      "rootId": "20260610100549-cua0app",
+      "scrollTop": 300,
+      "startId": "20260610100628-z1o5nmg"
+    },
+    "20260610100842-594pbwz": {
+      "endId": "20260610100853-fa5bpsw",
+      "focusEnd": 9,
+      "focusId": "20260610100853-fa5bpsw",
+      "focusStart": 9,
+      "rootId": "20260610100842-594pbwz",
+      "scrollTop": 0,
+      "startId": "20260610100853-j6fp2wp"
+    },
+    "20260610101040-qx4cj6x": {
+      "endId": "20260610101053-ng098u0",
+      "focusEnd": 76,
+      "focusId": "20260610101053-ng098u0",
+      "focusStart": 76,
+      "rootId": "20260610101040-qx4cj6x",
+      "scrollTop": 0,
+      "startId": "20260610101053-cyx046h"
     }
   },
   "local-filespaths": [
@@ -2697,7 +2840,8 @@
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527140725-ilpe7hs/20260609125853-ji7laj2.sy"
+        "/20260610091601-wtrlw2l/20260610094736-vtof0q4/20260610095338-68e4hfi.sy",
+        "/20260610091601-wtrlw2l/20260610100528-dmfnl1o/20260610100842-594pbwz.sy"
       ]
     }
   ],
