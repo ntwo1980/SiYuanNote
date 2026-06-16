@@ -1024,19 +1024,20 @@
       "title": "未命名"
     },
     {
-      "activeTime": "1781056794347",
+      "active": true,
+      "activeTime": "1781591018460",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260610095953-k05ykhz",
+        "blockId": "20260610100528-dmfnl1o",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260610095953-k05ykhz"
+        "rootId": "20260610100528-dmfnl1o"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "做规划与下功夫"
+      "title": "2026年高考作文真题 天津卷"
     }
   ],
   "local-dialogposition": {
@@ -1124,7 +1125,7 @@
       "focusId": "20260527164450-z7vks9g",
       "focusStart": 136,
       "rootId": "20260527164448-bsrwdso",
-      "scrollTop": 2040,
+      "scrollTop": 0,
       "startId": "20260527164548-fc200sl"
     },
     "20260528160054-z595213": {
@@ -1178,27 +1179,26 @@
       "focusId": "20260528162244-hr3v9o8",
       "focusStart": 0,
       "rootId": "20260528162244-p7e7pne",
-      "scrollTop": 700,
+      "scrollTop": 0,
       "startId": "20260528162244-hr3v9o8"
     },
     "20260528163431-clh84ob": {
       "endId": "20260528163654-cjncjfh",
-      "focusEnd": 50,
-      "focusId": "20260528163603-ospfl8f",
-      "focusStart": 50,
+      "focusEnd": 3,
+      "focusId": "20260528163619-yjm7dfz",
+      "focusStart": 3,
       "rootId": "20260528163431-clh84ob",
-      "scrollTop": 0,
+      "scrollTop": 1800,
       "startId": "20260528163536-0t7w3e2"
     },
     "20260528163815-2jku33a": {
-      "endId": "20260528163952-ubnqgmn",
-      "focusEnd": 2,
-      "focusId": "20260528163952-inm1d6o",
+      "endId": "20260528164019-56bdwq7",
+      "focusEnd": 3,
+      "focusId": "20260607192257-z9yu9fg",
       "focusStart": 2,
       "rootId": "20260528163815-2jku33a",
-      "scrollTop": 0,
-      "startId": "20260528163952-ubnqgmn",
-      "zoomInId": "20260528163952-ubnqgmn"
+      "scrollTop": 2302,
+      "startId": "20260528163901-8lan268"
     },
     "20260528191838-cx68wmu": {
       "endId": "20260528192120-g74fowg",
@@ -2840,8 +2840,7 @@
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260610091601-wtrlw2l/20260610094736-vtof0q4/20260610095338-68e4hfi.sy",
-        "/20260610091601-wtrlw2l/20260610100528-dmfnl1o/20260610100842-594pbwz.sy"
+        "/20260527140653-kwv108x/20260527140807-0alu7ke/20260602085450-fzg3014.sy"
       ]
     }
   ],
