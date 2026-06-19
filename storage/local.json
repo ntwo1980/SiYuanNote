@@ -1024,20 +1024,19 @@
       "title": "未命名"
     },
     {
-      "active": true,
-      "activeTime": "1781678250729",
+      "activeTime": "1781833926216",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260617131404-5jpxvgw",
+        "blockId": "20260527140741-hrog3o1",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260617131404-5jpxvgw"
+        "rootId": "20260527140741-hrog3o1"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "不必借光而行，你我皆是星辰"
+      "title": "4. 写作"
     }
   ],
   "local-dialogposition": {
@@ -1191,10 +1190,10 @@
     "20260528162244-p7e7pne": {
       "endId": "20260528162940-jdbtf8c",
       "focusEnd": 0,
-      "focusId": "20260528162244-hr3v9o8",
+      "focusId": "20260528162842-vlwnrwl",
       "focusStart": 0,
       "rootId": "20260528162244-p7e7pne",
-      "scrollTop": 0,
+      "scrollTop": 3500,
       "startId": "20260528162244-hr3v9o8"
     },
     "20260528163431-clh84ob": {
@@ -2908,13 +2907,13 @@
       "startId": "20260617131809-q4x2ctj"
     },
     "20260617132202-ckrhhqa": {
-      "endId": "20260617132219-2zkpfyt",
+      "endId": "20260619082035-wz66o9v",
       "focusEnd": 0,
-      "focusId": "20260617132219-tlggqsh",
+      "focusId": "20260619095506-jhnx4qw",
       "focusStart": 0,
       "rootId": "20260617132202-ckrhhqa",
       "scrollTop": 0,
-      "startId": "20260617132219-tlggqsh"
+      "startId": "20260619095506-jhnx4qw"
     },
     "20260617141830-vsbzgnc": {
       "endId": "20260617141847-29yv6bk",
@@ -2930,14 +2929,13 @@
     {
       "notebookId": "20260531092637-tiw90yj",
       "openPaths": [
-        "/20260531092638-p7p0ttl.sy"
+        "/20260617124817-ogk889n.sy"
       ]
     },
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527140653-kwv108x/20260527140807-0alu7ke.sy",
-        "/20260610091601-wtrlw2l/20260610095632-lhlgqr0.sy"
+        "/20260610091601-wtrlw2l/20260617132202-ckrhhqa/20260619095219-14tzexf.sy"
       ]
     }
   ],
@@ -2947,10 +2945,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": true,
+        "show": false,
         "size": {
-          "height": null,
-          "width": 321
+          "height": 0,
+          "width": 400
         },
         "title": "Copilot"
       }
