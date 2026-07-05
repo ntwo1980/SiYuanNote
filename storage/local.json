@@ -1025,19 +1025,19 @@
     },
     {
       "active": true,
-      "activeTime": "1782719355808",
+      "activeTime": "1783209647740",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260528191838-cx68wmu",
+        "blockId": "20260607191100-kz10cby",
         "instance": "Editor",
         "mode": "wysiwyg",
         "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260528191838-cx68wmu"
+        "rootId": "20260607191100-kz10cby"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "2023年全国乙卷"
+      "title": "1. 信息类文本"
     }
   ],
   "local-dialogposition": {
@@ -1365,7 +1365,7 @@
       "focusId": "20260605101615-qze2ane",
       "focusStart": 2,
       "rootId": "20260602125024-s537kp4",
-      "scrollTop": 805,
+      "scrollTop": 804.7999877929688,
       "startId": "20260602125036-fx50gna"
     },
     "20260602125210-u7vzdge": {
@@ -2993,15 +2993,13 @@
     {
       "notebookId": "20260531092637-tiw90yj",
       "openPaths": [
-        "/20260531092638-p7p0ttl.sy"
+        "/20260617124817-ogk889n.sy"
       ]
     },
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
-        "/20260527140653-kwv108x/20260527140807-0alu7ke/20260602085450-fzg3014.sy",
-        "/20260527140653-kwv108x/20260604084145-8cnhs9j/20260604090703-1fqha5g.sy",
-        "/20260610091601-wtrlw2l/20260610095632-lhlgqr0.sy"
+        "/20260607191100-inplbd2.sy"
       ]
     }
   ],
@@ -3011,10 +3009,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": true,
+        "show": false,
         "size": {
-          "height": null,
-          "width": 321
+          "height": 0,
+          "width": 400
         },
         "title": "Copilot"
       }
