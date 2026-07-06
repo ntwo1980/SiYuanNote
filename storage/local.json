@@ -1080,6 +1080,15 @@
       "scrollTop": 0,
       "startId": "20260527140741-gi6qgzq"
     },
+    "20260531092638-p7p0ttl": {
+      "endId": "20260605082558-c3bbw3m",
+      "focusEnd": 8,
+      "focusId": "20260605082558-joe3kfa",
+      "focusStart": 8,
+      "rootId": "20260531092638-p7p0ttl",
+      "scrollTop": 8000,
+      "startId": "20260605082558-i11cy4s"
+    },
     "20260617124817-ogk889n": {
       "endId": "20260625193129-vlk7xpk",
       "focusEnd": 0,
@@ -1091,6 +1100,12 @@
     }
   },
   "local-filespaths": [
+    {
+      "notebookId": "20260531092637-tiw90yj",
+      "openPaths": [
+        "/20260531092638-p7p0ttl.sy"
+      ]
+    },
     {
       "notebookId": "20260527125801-8mdt6n2",
       "openPaths": [
@@ -1104,10 +1119,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": false,
+        "show": true,
         "size": {
-          "height": 0,
-          "width": 400
+          "height": null,
+          "width": 321
         },
         "title": "Copilot"
       }
