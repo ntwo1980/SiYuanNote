@@ -1025,19 +1025,19 @@
     },
     {
       "active": true,
-      "activeTime": "1783213861787",
+      "activeTime": "1784027870551",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260607191100-inplbd2",
+        "blockId": "20260617124817-ogk889n",
         "instance": "Editor",
         "mode": "wysiwyg",
-        "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260607191100-inplbd2"
+        "notebookId": "20260531092637-tiw90yj",
+        "rootId": "20260617124817-ogk889n"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "Untitled"
+      "title": "高考语文作文(哲理散文)"
     }
   ],
   "local-dialogposition": {
@@ -1080,32 +1080,41 @@
       "scrollTop": 0,
       "startId": "20260527140741-gi6qgzq"
     },
-    "20260528163815-2jku33a": {
-      "endId": "20260528164019-56bdwq7",
-      "focusEnd": 3,
-      "focusId": "20260607192302-8wudrpj",
-      "focusStart": 2,
-      "rootId": "20260528163815-2jku33a",
-      "scrollTop": 2400,
-      "startId": "20260528163901-8lan268"
-    },
     "20260531092638-p7p0ttl": {
       "endId": "20260605082558-c3bbw3m",
-      "focusEnd": 8,
-      "focusId": "20260605082558-joe3kfa",
-      "focusStart": 8,
+      "focusEnd": 94,
+      "focusId": "20260605082558-6q4pzqa",
+      "focusStart": 94,
       "rootId": "20260531092638-p7p0ttl",
       "scrollTop": 8000,
       "startId": "20260605082558-i11cy4s"
     },
+    "20260602091418-uvz5uvg": {
+      "endId": "20260602091624-t95kvkd",
+      "focusEnd": 0,
+      "focusId": "20260602091515-3qcfq42",
+      "focusStart": 0,
+      "rootId": "20260602091418-uvz5uvg",
+      "scrollTop": 0,
+      "startId": "20260602091515-3qcfq42"
+    },
     "20260602125024-s537kp4": {
       "endId": "20260602125141-ntqes08",
-      "focusEnd": 377,
-      "focusId": "20260602125124-29eaj4s",
-      "focusStart": 185,
+      "focusEnd": 0,
+      "focusId": "20260602125036-fx50gna",
+      "focusStart": 0,
       "rootId": "20260602125024-s537kp4",
-      "scrollTop": 3065,
+      "scrollTop": 1500,
       "startId": "20260602125036-fx50gna"
+    },
+    "20260610092542-v0ufjc5": {
+      "endId": "20260610092618-wna876e",
+      "focusEnd": 24,
+      "focusId": "20260610092544-jarmcol",
+      "focusStart": 24,
+      "rootId": "20260610092542-v0ufjc5",
+      "scrollTop": 1627,
+      "startId": "20260610092544-iyaz7yf"
     },
     "20260617124817-ogk889n": {
       "endId": "20260625193129-vlk7xpk",
@@ -1121,7 +1130,7 @@
     {
       "notebookId": "20260531092637-tiw90yj",
       "openPaths": [
-        "/20260531092638-p7p0ttl.sy"
+        "/20260617124817-ogk889n.sy"
       ]
     },
     {
@@ -1138,10 +1147,10 @@
         "icon": "iconCopilot",
         "index": 1,
         "position": "RightBottom",
-        "show": true,
+        "show": false,
         "size": {
-          "height": null,
-          "width": 321
+          "height": 0,
+          "width": 400
         },
         "title": "Copilot"
       }
@@ -1154,10 +1163,10 @@
     "idPath": [
       "20260531092637-tiw90yj/20260531092638-p7p0ttl.sy"
     ],
-    "k": "尼采：",
+    "k": "",
     "method": 0,
     "page": 1,
-    "query": "尼采：",
+    "query": "",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -1224,6 +1233,8 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "",
+      "你所厌恶的现在",
       "尼采：",
       "目的",
       "殷墟",
@@ -1242,7 +1253,6 @@
       "事有凑巧",
       "先王之时",
       "理论是灰色的",
-      "",
       "手段",
       "意义",
       "于是放弃了建造游观之台的工程。",
@@ -1286,8 +1296,7 @@
       "雨果",
       "在逆境中，把俯视墓穴的悲痛，转换为仰望星空的情感。",
       "在逆境中",
-      "文体与结构",
-      "灵活"
+      "文体与结构"
     ],
     "layout": 0,
     "layoutTab": 0,
