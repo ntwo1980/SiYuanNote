@@ -1025,19 +1025,19 @@
     },
     {
       "active": true,
-      "activeTime": "1785626099249",
+      "activeTime": "1785725888020",
       "children": {
         "action": "cb-get-scroll",
-        "blockId": "20260602125024-s537kp4",
+        "blockId": "20260617124817-ogk889n",
         "instance": "Editor",
         "mode": "wysiwyg",
-        "notebookId": "20260527125801-8mdt6n2",
-        "rootId": "20260602125024-s537kp4"
+        "notebookId": "20260531092637-tiw90yj",
+        "rootId": "20260617124817-ogk889n"
       },
       "docIcon": "",
       "instance": "Tab",
       "pin": false,
-      "title": "2023年新高考Ⅱ卷 ❌"
+      "title": "高考语文作文(哲理散文)"
     }
   ],
   "local-dialogposition": {
@@ -1080,6 +1080,21 @@
       "scrollTop": 0,
       "startId": "20260527140741-gi6qgzq"
     },
+    "20260527164448-bsrwdso": {
+      "endId": "20260528163134-6l3uxgi",
+      "focusEnd": 0,
+      "focusId": "20260527164548-fc200sl",
+      "focusStart": 0,
+      "rootId": "20260527164448-bsrwdso",
+      "scrollTop": 0,
+      "startId": "20260527164548-fc200sl"
+    },
+    "20260528192530-av71gs8": {
+      "endId": "20260528192829-dn2mapz",
+      "rootId": "20260528192530-av71gs8",
+      "scrollTop": 1698,
+      "startId": "20260528192556-33gb2l6"
+    },
     "20260531092638-p7p0ttl": {
       "endId": "20260605082558-c3bbw3m",
       "focusEnd": 93,
@@ -1091,9 +1106,9 @@
     },
     "20260602091418-uvz5uvg": {
       "endId": "20260602091624-t95kvkd",
-      "focusEnd": 78,
+      "focusEnd": 17,
       "focusId": "20260602091534-laokw61",
-      "focusStart": 78,
+      "focusStart": 13,
       "rootId": "20260602091418-uvz5uvg",
       "scrollTop": 1800,
       "startId": "20260602091515-3qcfq42"
@@ -1102,18 +1117,18 @@
       "endId": "20260602125141-ntqes08",
       "focusEnd": 5,
       "focusId": "20260602125124-29eaj4s",
-      "focusStart": 4,
+      "focusStart": 5,
       "rootId": "20260602125024-s537kp4",
       "scrollTop": 1700,
       "startId": "20260602125036-fx50gna"
     },
     "20260602125210-u7vzdge": {
       "endId": "20260602125307-qwx6hsc",
-      "focusEnd": 0,
-      "focusId": "20260602125234-6n2a19h",
-      "focusStart": 0,
+      "focusEnd": 43,
+      "focusId": "20260602125234-afu61x2",
+      "focusStart": 2,
       "rootId": "20260602125210-u7vzdge",
-      "scrollTop": 0,
+      "scrollTop": 700,
       "startId": "20260602125234-6n2a19h"
     },
     "20260602125315-0f6dq2r": {
@@ -1176,15 +1191,15 @@
   },
   "local-searchdata": {
     "group": 0,
-    "hPath": "提示词/高考语文作文",
+    "hPath": "语文/1. 现代文阅读/2. 文学类文本/2023年全国甲卷 ❌",
     "hasReplace": false,
     "idPath": [
-      "20260531092637-tiw90yj/20260531092638-p7p0ttl.sy"
+      "20260527125801-8mdt6n2/20260527140653-kwv108x/20260527140819-qpq6mwr/20260602125210-u7vzdge.sy"
     ],
-    "k": "",
+    "k": "工人",
     "method": 0,
     "page": 1,
-    "query": "",
+    "query": "工人",
     "r": "",
     "removed": true,
     "replaceTypes": {
@@ -1251,6 +1266,10 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "工人",
+      "机械的诗",
+      "河流",
+      "下田去吧",
       "",
       "你所厌恶的现在",
       "尼采：",
@@ -1310,11 +1329,7 @@
       "素食者",
       "呼兰河传",
       "萨丽娃姐姐的春天",
-      "优先",
-      "雨果",
-      "在逆境中，把俯视墓穴的悲痛，转换为仰望星空的情感。",
-      "在逆境中",
-      "文体与结构"
+      "优先"
     ],
     "layout": 0,
     "layoutTab": 0,
